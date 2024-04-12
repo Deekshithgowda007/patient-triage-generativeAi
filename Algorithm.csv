@@ -1,0 +1,467 @@
+"AlgorithmID","Author","Copyright","CreatedDate","LastUpDate","LastReviewDate","Title","Title_UpperCase","Title_LastUpdate","Definition","DefinitionXHTML","Definition_LastUpdate","InitialAssessmentQuestions","InitalAssessmentQuestions_LastUpdate","Background","BackgroundXHTML","BackGround_LastUpdate","FirstAid","FirstAidXHTML","FirstAid_LastUpdate","Reference_LastUpdate","SearchWords_LastUpdate","Questions_LastUpdate","CA_LastUpdate","AH_DESCRIPTORS","Category","Group","Type","System","Anatomy","VersionYear","Status","Acuity","Gender","AgeGroup","Min_Age_Years","Max_Age_Years","Min_Age_Months","Max_Age_Months","WH","BH","OA","CD","Hospice","Oncology","Prescription_Option"
+"12","David A. Thompson, MD, FACEP","Copyright 2000-2022, LaGrange Medical Software, Inc.","2000-04-27 14:48:02","2022-02-12 13:57:23","2022-03-03 08:56:39","Abdominal Pain - Male","ABDOMINAL PAIN - MALE","2001-02-01 17:35:24","* Pain or discomfort located between the bottom of the rib cage and the groin crease.
+* Male
+
+PAIN SEVERITY is defined as:
+* MILD (1-3): doesn't interfere with normal activities, abdomen soft and not tender to touch
+* MODERATE (4-7): interferes with normal activities or awakens from sleep, abdomen tender to touch 
+* SEVERE (8-10): excruciating pain, doubled over, unable to do any normal activities","<ul><li>Pain or discomfort located between the bottom of the rib cage and the groin crease. </li><li>Male</li></ul><p><strong>PAIN SEVERITY</strong> is defined as:</p><ul><li>MILD (1-3): doesn't interfere with normal activities, abdomen soft and not tender to touch </li><li>MODERATE (4-7): interferes with normal activities or awakens from sleep, abdomen tender to touch </li><li>SEVERE (8-10): excruciating pain, doubled over, unable to do any normal activities </li></ul>","2021-05-27 00:00:00","1. LOCATION: ""Where does it hurt?"" 
+2. RADIATION: ""Does the pain shoot anywhere else?"" (e.g., chest, back)
+3. ONSET: ""When did the pain begin?"" (Minutes, hours or days ago) 
+4. SUDDEN: ""Gradual or sudden onset?""
+5. PATTERN ""Does the pain come and go, or is it constant?""
+   - If constant: ""Is it getting better, staying the same, or worsening?"" 
+    (Note: Constant means the pain never goes away completely; most serious pain is constant and it progresses) 
+   - If intermittent: ""How long does it last?"" ""Do you have pain now?""
+    (Note: Intermittent means the pain goes away completely between bouts)
+6. SEVERITY: ""How bad is the pain?""  (e.g., Scale 1-10; mild, moderate, or severe)
+   - MILD (1-3): doesn't interfere with normal activities, abdomen soft and not tender to touch 
+   - MODERATE (4-7): interferes with normal activities or awakens from sleep, abdomen tender to touch 
+   - SEVERE (8-10): excruciating pain, doubled over, unable to do any normal activities  
+7. RECURRENT SYMPTOM: ""Have you ever had this type of stomach pain before?"" If Yes, ask: ""When was the last time?"" and ""What happened that time?"" 
+8. CAUSE: ""What do you think is causing the stomach pain?""
+9. RELIEVING/AGGRAVATING FACTORS: ""What makes it better or worse?"" (e.g., movement, antacids, bowel movement)
+10. OTHER SYMPTOMS: ""Do you have any other symptoms?"" (e.g., back pain, diarrhea, fever, urination pain, vomiting)","2021-06-13 13:29:36","KEY POINTS
+* Abdominal pain is a very common symptom. 
+* Sometimes it may be a symptom of a benign gastrointestinal disorder like gas, overeating, or gastroenteritis. At times abdominal pain is a symptom of a moderately serious problem like appendicitis or biliary colic (gallstones). Abdominal pain may also be the warning symptom of life-threatening conditions like perforated peptic ulcer disease, mesenteric ischemia, and ruptured abdominal aortic aneurysm.
+* Pain in older adults (e.g., over 60 years) carries with it a higher risk of serious illness. In one study of older patients presenting to an E.D. with abdominal pain, 40% had surgical illness.
+
+TOP CAUSES OF ABDOMINAL PAIN IN MEN YOUNGER THAN 50 YEARS OF AGE
+* Appendicitis
+* Gallbladder disease
+* Irritable Bowel Syndrome
+* Nonspecific abdominal pain
+* Peptic ulcer disease
+
+TOP CAUSES OF ABDOMINAL PAIN IN MEN OLDER THAN 50 YEARS OF AGE
+* Appendicitis
+* Bowel obstruction
+* Diverticulitis
+* Gallbladder disease
+* Pancreatitis
+* Peptic ulcer disease
+
+LOCATION OF PAIN AND POSSIBLE ETIOLOGIES
+* RUQ: liver and gallbladder
+* Epigastric: heart, stomach, duodenum, esophagus, gallbladder, pancreas
+* LUQ: spleen, stomach
+* Periumbilical: pancreas, early appendicitis, small bowel
+* RLQ: ileum, appendix, kidney
+* Suprapubic: bladder, rectum, colon
+* LLQ: sigmoid colon, kidney","<p><strong>Key Points</strong></p><ul><li>Abdominal pain is a very common symptom. </li><li>Sometimes it may be a symptom of a benign gastrointestinal disorder like gas, overeating, or gastroenteritis. At times abdominal pain is a symptom of a moderately serious problem like appendicitis or biliary colic (gallstones). Abdominal pain may also be the warning symptom of life-threatening conditions like perforated peptic ulcer disease, mesenteric ischemia, and ruptured abdominal aortic aneurysm.</li><li>Pain in older adults (e.g., over 60 years) carries with it a higher risk of serious illness. In one study of older patients presenting to an E.D. with abdominal pain, 40% had surgical illness.</li></ul><p><strong>Top Causes of Abdominal Pain in Men Younger Than 50 Years of Age</strong></p><ul><li>Appendicitis</li><li>Gallbladder disease</li><li>Irritable Bowel Syndrome</li><li>Nonspecific abdominal pain</li><li>Peptic ulcer disease</li></ul><p><strong>Top Causes of Abdominal Pain in Men Older Than 50 Years of Age</strong></p><ul><li>Appendicitis</li><li>Bowel obstruction</li><li>Diverticulitis</li><li>Gallbladder disease</li><li>Pancreatitis</li><li>Peptic ulcer disease</li></ul><p><strong>Location of Pain and Possible Etiologies</strong></p><ul><li><em>RUQ:</em> liver and gallbladder</li><li><em>Epigastric:</em> heart, stomach, duodenum, esophagus, gallbladder, pancreas</li><li><em>LUQ:</em> spleen, stomach</li><li><em>Periumbilical:</em> pancreas, early appendicitis, small bowel</li><li><em>RLQ:</em> ileum, appendix, kidney</li><li><em>Suprapubic:</em> bladder, rectum, colon</li><li><em>LLQ:</em> sigmoid colon, kidney</li></ul>","2021-06-19 09:57:30","FIRST AID ADVICE FOR SHOCK: Lie down with the feet elevated.","<p><strong>FIRST AID Advice for Shock:</strong> Lie down with the feet elevated.</p>","2008-02-02 14:27:30","2013-02-23 07:39:17","2014-06-07 18:01:44","2020-12-28 17:11:24","2022-02-12 13:57:23","False","Adult","Adult After-Hours Version","Symptom","Gastrointestinal","Abdomen Symptoms","2022","Active","3","M","Adult","18","120","216","1440","False","False","True","False","False","False","False"
+"133","David A. Thompson, MD, FACEP","Copyright 2000-2022, LaGrange Medical Software, Inc.","2000-10-03 21:45:56","2022-03-29 00:00:00","2022-04-06 14:03:25","Ankle and Foot Injury","ANKLE AND FOOT INJURY","2019-11-06 09:30:59","* Injuries to a bone, muscle, joint, or ligament of the ankle and foot
+* Associated skin and soft tissue injuries are also included","<ul><li>Injuries to a bone, muscle, joint, or ligament of the ankle and foot </li><li>Associated skin and soft tissue injuries are also included</li></ul>","2018-11-15 11:27:24","1. MECHANISM: ""How did the injury happen?"" (e.g., twisting injury, direct blow) 
+2. ONSET: ""When did the injury happen?"" (Minutes or hours ago) 
+3. LOCATION: ""Where is the injury located?"" 
+4. APPEARANCE of INJURY: ""What does the injury look like?"" 
+5. WEIGHT-BEARING: ""Can you put weight on that foot?"" ""Can you walk (four steps or more)?""  
+6. SIZE: For cuts, bruises, or swelling, ask: ""How large is it?"" (e.g., inches or centimeters;  entire joint) 
+7. PAIN: ""Is there pain?"" If Yes, ask: ""How bad is the pain?""    (e.g., Scale 1-10; or mild, moderate, severe)
+  - NONE (0): no pain.
+  - MILD (1-3): doesn't interfere with normal activities. 
+  - MODERATE (4-7): interferes with normal activities (e.g., work or school) or awakens from sleep, limping. 
+  - SEVERE (8-10): excruciating pain, unable to do any normal activities, unable to walk. 
+8. TETANUS: For any breaks in the skin, ask: ""When was the last tetanus booster?""
+9. OTHER SYMPTOMS: ""Do you have any other symptoms?"" 
+10. PREGNANCY: ""Is there any chance you are pregnant?"" ""When was your last menstrual period?""","2021-03-23 00:00:00","TYPES OF FOOT AND ANKLE INJURIES
+* Achilles tendon rupture: There is pain in the Achilles tendon (area above heel and behind ankle). There is weakness or inability to extend the foot (e.g., can't stand on tiptoes).
+* Contusion: A direct blow or crushing injury results in bruising of the skin, muscle, and underlying bone.
+* Cuts, abrasions
+* Dislocations (bone out of joint)
+* Fractures (broken bones)
+* Sprains: Stretches and tears of ligaments
+* Strains: Stretches and tears of muscles (e.g., pulled muscle)
+
+WHAT CUTS NEED TO BE SUTURED?
+* Any cut that is split open or gaping probably needs sutures (or staples or skin glue).
+* Cuts longer than 1/2 inch (1 cm) usually need sutures.
+* Any open wound that may need sutures should be evaluated by a physician regardless of the time that has passed since the initial injury.
+
+TETANUS BOOSTER - WHEN DOES AN ADULT NEED A TETANUS SHOT?
+
+All SERIOUS OR MAJOR WOUNDS are triaged and referred for immediate wound care. This includes crush injuries, amputations, avulsions, gaping cuts, larger burns, or any other wound that needs debridement or irrigation. For these wounds, if a tetanus booster is needed, it will be given with medical care on the DAY OF THE INJURY.
+
+When is a tetanus shot needed for other wounds?
+* CLEAN CUTS AND SCRAPES - TETANUS BOOSTER NEEDED EVERY 10 YEARS: Patients with CLEAN MINOR wounds AND who have previously had 3 or more tetanus shots (full series) need a booster every 10 years. Examples of minor wounds include a superficial abrasion, a small cut from a clean knife blade, or a glass cut sustained while washing dishes. All wounds need wound care and cleaning right away. A tetanus booster (Td or Tdap) should be given within 72 hours (3 days).
+* DIRTY WOUNDS - TETANUS BOOSTER NEEDED EVERY 5 YEARS: Patients with DIRTY wounds need a booster every 5 years. Examples of dirty wounds include any cut contaminated with soil, feces, saliva and more serious wounds from deep punctures, crushing, and burns. All wounds need to be cleaned right away. A tetanus booster (Td or Tdap) should be given as soon as possible, preferably at the time of wound care, and definitely within 72 hours (3 days).
+
+What if a person has had no prior tetanus shots or is not fully vaccinated?
+* If a person has never gotten a tetanus shot, they should get the FIRST TETANUS SHOT TODAY OR WITHIN 24 HOURS. Then they will need to get the full tetanus series.
+* If a person is not fully vaccinated (3 shots), they should get a TETANUS SHOT TODAY OR WITHIN 24 HOURS.
+* The full tetanus shot series is a shot now, a shot in 4 to 8 weeks, and a shot in 6 to 12 months. Three shots in total.
+* If the wound is dirty, the person may also need tetanus immune globulin (TIG) at the same time they get the tetanus booster.","<p><strong>Types of Foot and Ankle Injuries</strong></p><ul><li>Achilles tendon rupture: There is pain in the Achilles tendon (area above heel and behind ankle). There is weakness or inability to extend the foot (e.g., can't stand on tiptoes).</li><li>Contusion: A direct blow or crushing injury results in bruising of the skin, muscle, and underlying bone.</li><li>Cuts, abrasions</li><li>Dislocations (bone out of joint)</li><li>Fractures (broken bones)</li><li>Sprains: Stretches and tears of ligaments</li><li>Strains: Stretches and tears of muscles (e.g., pulled muscle)</li></ul><p><strong>What Cuts Need to be Sutured?</strong></p><ul><li>Any cut that is split open or gaping probably needs sutures (or staples or skin glue).</li><li>Cuts longer than 1/2 inch (1 cm) usually need sutures.</li><li>Any open wound that may need sutures should be evaluated by a physician regardless of the time that has passed since the initial injury.</li></ul><p><strong>T<strong><strong>etanus Booster - When Does an Adult Need a Tetanus Shot?</strong></strong></strong></p><p>All <strong>serious or major wounds</strong> are triaged and referred for immediate wound care. This includes crush injuries, amputations, avulsions, gaping cuts, larger burns, or any other wound that needs debridement or irrigation. For these wounds, if a tetanus booster is needed, it will be given with medical care on the <strong>day of the injury</strong>.</p><p><em>When is a tetanus shot needed for other wounds?</em></p><ul><li><strong>Clean Cuts and Scrapes - Tetanus Booster Needed Every 10 Years:</strong> Patients with <strong>clean minor</strong> wounds AND who have previously had 3 or more tetanus shots (full series) need a booster every 10 years. Examples of minor wounds include a superficial abrasion, a small cut from a clean knife blade, or a glass cut sustained while washing dishes. All wounds need wound care and cleaning right away. A tetanus booster (Td or Tdap) should be given within 72 hours (3 days).</li><li><strong>Dirty Wounds - Tetanus Booster Needed Every 5 Years:</strong> Patients with <strong>dirty</strong> wounds need a booster every 5 years. Examples of dirty wounds include any cut contaminated with soil, feces, saliva and more serious wounds from deep punctures, crushing, and burns. All wounds need to be cleaned right away. A tetanus booster (Td or Tdap) should be given as soon as possible, preferably at the time of wound care, and definitely within 72 hours (3 days).</li></ul><p><em>What if a person has had no prior tetanus shots or is not fully vaccinated?</em></p><ul><li>If a person has never gotten a tetanus shot, they should get the <strong>first tetanus shot today or within 24 hours</strong>. Then they will need to get the full tetanus series.</li><li>If a person is not fully vaccinated (3 shots), they should get a <strong>tetanus shot today or within 24 hours</strong>.</li><li>The full tetanus shot series is a shot now, a shot in 4 to 8 weeks, and a shot in 6 to 12 months. Three shots in total.</li><li>If the wound is dirty, the person may also need tetanus immune globulin (TIG) at the same time they get the tetanus booster.</li></ul>","2021-01-23 00:00:00","FIRST AID ADVICE FOR BLEEDING: Apply direct pressure to the entire wound with a clean cloth.
+
+FIRST AID ADVICE FOR PENETRATING OBJECT: If penetrating object still in place, don't remove it.
+
+FIRST AID ADVICE FOR SHOCK: Lie down with feet elevated.
+
+FIRST AID ADVICE FOR A SPRAIN OR TWISTING INJURY OF ANKLE OR FOOT:
+* Apply a cold pack or an ice bag (wrapped in a moist towel) to the area for 20 minutes.
+* Wrap area with an elastic bandage.
+
+FIRST AID ADVICE FOR SUSPECTED ANKLE OR FOOT FRACTURE (BROKEN BONE) OR DISLOCATION (OUT OF JOINT):
+* Do not remove the shoe.
+* Immobilize the ankle and foot by wrapping them with a soft splint (e.g., a pillow, a rolled-up blanket, a towel).
+* Use tape to keep this splint in place.
+
+TRANSPORT OF AN AMPUTATED BODY PART:
+* Briefly rinse amputated part with water (to remove any dirt).
+* Place amputated part in plastic bag (to protect and keep clean).
+* Place plastic bag containing part in a container of ice (to keep cool and preserve tissue).","<p><strong>FIRST AID Advice for Bleeding:</strong> Apply direct pressure to the entire wound with a clean cloth.</p><p><strong>FIRST AID Advice for Penetrating Object:</strong> If penetrating object still in place, don't remove it.</p><p><strong>FIRST AID Advice for Shock:</strong> Lie down with feet elevated.</p><p><strong>FIRST AID Advice for a Sprain or Twisting Injury of Ankle or Foot:</strong> </p><ul><li>Apply a cold pack or an ice bag (wrapped in a moist towel) to the area for 20 minutes.</li><li>Wrap area with an elastic bandage.</li></ul><p><strong>FIRST AID Advice for Suspected Ankle or Foot Fracture (Broken Bone) or Dislocation (Out of Joint):</strong></p><ul><li>Do not remove the shoe.</li><li>Immobilize the ankle and foot by wrapping them with a soft splint (e.g., a pillow, a rolled-up blanket, a towel).</li><li>Use tape to keep this splint in place.</li></ul><p><strong>Transport of an Amputated Body Part</strong>:</p><ul><li>Briefly rinse amputated part with water (to remove any dirt).</li><li>Place amputated part in plastic bag (to protect and keep clean).</li><li>Place plastic bag containing part in a container of ice (to keep cool and preserve tissue).</li></ul>","2020-03-14 07:52:26","2019-10-04 08:31:19","2014-01-07 11:36:22","2021-10-19 17:06:09","2021-07-31 16:28:17","False","Adult","Adult After-Hours Version","Injury - Trauma","Musculoskeletal","Arm and Leg Symptoms","2022","Active","4","B","Adult","18","120","216","1440","False","False","True","False","False","False","False"
+"142","David A. Thompson, MD, FACEP","Copyright 2000-2022, LaGrange Medical Software, Inc.","2000-09-26 22:17:54","2022-03-21 08:23:08","2022-03-21 08:24:20","Diarrhea","DIARRHEA","2001-02-01 18:31:18","* DIARRHEA is an increase in loose or watery stools (bowel movements). Typically occurring three or more times a day.
+* Diarrhea may be mild (passing a few loose or mushy stools) or severe (passing many watery stools).
+
+Diarrhea SEVERITY is defined as:
+* NO DIARRHEA (SCALE 0)
+* MILD (SCALE 1-3): Few loose or mushy BMs; increase of 1-3 stools over normal daily number of stools; mild increase in ostomy output.
+* MODERATE (SCALE 4-7): Increase of 4-6 stools daily over normal; moderate increase in ostomy output.
+* SEVERE (SCALE 8-10; OR 'WORST POSSIBLE'): Increase of 7 or more stools daily over normal; moderate increase in ostomy output; incontinence.","<ul><li><strong>Diarrhea</strong> is an increase in loose or watery stools (bowel movements). Typically occurring three or more times a day.</li><li>Diarrhea may be mild (passing a few loose or mushy stools) or severe (passing many watery stools).</li></ul><p>Diarrhea <strong>SEVERITY</strong> is defined as:</p><ul><li><strong>No Diarrhea (Scale 0)</strong></li><li><strong>Mild (Scale 1-3)</strong>: Few loose or mushy BMs; increase of 1-3 stools over normal daily number of stools; mild increase in ostomy output.</li><li><strong>Moderate (Scale 4-7)</strong>: Increase of 4-6 stools daily over normal; moderate increase in ostomy output.</li><li><strong>Severe (Scale 8-10; or &quot;Worst Possible&quot;)</strong>: Increase of 7 or more stools daily over normal; moderate increase in ostomy output; incontinence.</li></ul>","2019-04-11 09:37:02","1. DIARRHEA SEVERITY: ""How bad is the diarrhea?"" ""How many more stools have you had in the past 24 hours than normal?"" 
+  - NO DIARRHEA (SCALE 0)
+  - MILD (SCALE 1-3): Few loose or mushy BMs; increase of 1-3 stools over normal daily number of stools; mild increase in ostomy output.
+  -  MODERATE (SCALE 4-7): Increase of 4-6 stools daily over normal; moderate increase in ostomy output.
+* SEVERE (SCALE 8-10; OR 'WORST POSSIBLE'): Increase of 7 or more stools daily over normal; moderate increase in ostomy output; incontinence.
+2. ONSET: ""When did the diarrhea begin?"" 
+3. BM CONSISTENCY: ""How loose or watery is the diarrhea?"" 
+4. VOMITING: ""Are you also vomiting?"" If Yes, ask: ""How many times in the past 24 hours?"" 
+5. ABDOMINAL PAIN: ""Are you having any abdominal pain?"" If Yes, ask: ""What does it feel like?"" (e.g., crampy, dull, intermittent, constant) 
+6. ABDOMINAL PAIN SEVERITY: If present, ask: ""How bad is the pain?""  (e.g., Scale 1-10; mild, moderate, or severe)
+  - MILD (1-3): doesn't interfere with normal activities, abdomen soft and not tender to touch 
+  - MODERATE (4-7): interferes with normal activities or awakens from sleep, abdomen tender to touch 
+  - SEVERE (8-10): excruciating pain, doubled over, unable to do any normal activities  
+7. ORAL INTAKE: If vomiting, ""Have you been able to drink liquids?"" ""How much liquids have you had in the past 24 hours?""
+8. HYDRATION: ""Any signs of dehydration?"" (e.g., dry mouth [not just dry lips], too weak to stand, dizziness, new weight loss) ""When did you last urinate?""
+9. EXPOSURE: ""Have you traveled to a foreign country recently?"" ""Have you been exposed to anyone with diarrhea?"" ""Could you have eaten any food that was spoiled?""
+10. ANTIBIOTIC USE: ""Are you taking antibiotics now or have you taken antibiotics in the past 2 months?""
+11. OTHER SYMPTOMS: ""Do you have any other symptoms?"" (e.g., fever, blood in stool)
+12. PREGNANCY: ""Is there any chance you are pregnant?"" ""When was your last menstrual period?""","2021-06-24 09:35:31","KEY POINTS
+* The majority of adults with acute diarrhea (less than 14 days duration) have an infectious etiology for their diarrhea, and in most cases the infection is a virus. Other common causes of acute diarrhea are food poisoning and medications.
+* Maintaining hydration is the cornerstone of treatment for adults with acute diarrhea.
+* In general, an adult who is alert, feels well, and who is not thirsty or dizzy: is NOT dehydrated. A couple loose or runny stools do not cause dehydration. Frequent, watery stools can cause dehydration.
+* Antibiotic therapy is only rarely required in the treatment of acute diarrhea. Two types of acute diarrhea that require antibiotic therapy are C. difficile diarrhea and (sometimes) Traveler's Diarrhea.
+
+CAUSES
+* Antibiotic side effect (e.g., temporary diarrhea from Augmentin / amoxicillin clavulanic acid)
+* Bacterial gastroenteritis (i.e., Campylobacter, Salmonella, Shigella)
+* Cathartics, excessive use of (e.g., magnesium citrate, milk of magnesia)
+* Food poisoning
+* Giardiasis
+* Inflammatory bowel disease
+* Irritable bowel syndrome
+* Pseudomembranous colitis: Pseudomembranous colitis is an inflammation in the colon that occurs in some people from taking antibiotics. It is usually caused by an over-growth of a specific type bacteria called Clostridium difficile (C. difficile). Other names that are used to describe this illness include antibiotic-associated diarrhea and C. difficile colitis.
+* Traveler's diarrhea
+* Viral gastroenteritis
+
+TRAVELER'S DIARRHEA
+* Definition: Traveler's diarrhea typically begins within two weeks of traveling to a foreign country. There are bacteria in the water and food that the body is not used to and a diarrheal infection is the result. Traveler's diarrhea is also called 'mummy tummy,' 'Montezuma's revenge,' and 'turista'.
+* Symptoms: Passage of at least three loose stools a day; accompanying symptoms may include nausea, vomiting, abdominal cramping, fecal urgency, and fever.
+* Region and Risk: Travelers to the following developing areas have a HIGH-RISK (40%) of getting traveler's diarrhea: Latin America, Africa, South Asia. There is an INTERMEDIATE-RISK (15%) with travel to Northern Mediterranean countries, the Middle East, China, and Russia. Travelers to the United States, Western Europe, Canada, and Japan have a LOW RISK (2-4%) of getting traveler's Diarrhea.
+* Prevention: Diet: Avoid uncooked foods (salad). Cooked foods (served steaming hot) are usually safe as are dry foods (e.g., bread). Avoid ice cubes and tap water. Drink steaming beverages (e.g., coffee, tea) or carbonated drinks (e.g., bottled soft drinks, beer). Fruits that can be peeled are usually safe (e.g., oranges, bananas, apples).
+* Prevention: Bismuth Subsalicylate: Bismuth (Pepto-Bismol 8 tablets daily PO) is approximately 65% effective at preventing Traveler's Diarrhea.
+* Prevention: Antibiotics: Antibiotic chemoprophylaxis (prevention) during travel may be indicated in certain circumstances. Rifaximin (200 mg PO BID with meals) is approximately 70-80% effective at preventing traveler's diarrhea.
+* Treatment - Anti-Diarrheal Agents: Bismuth subsalicylate (Pepto-Bismol) and loperamide (Imodium AD) are both effective at reducing the diarrhea symptoms.
+* Treatment - Antibiotics: Antibiotic therapy is sometimes recommended to treat this type of diarrhea, especially if the symptoms are more than mild. There are a number of antibiotics that are effective including ciprofloxacin (Cipro), azithromycin (Zithromax), and rifaximin (Xifaxan 200 mg PO TID for 3 days).
+
+NORWALK VIRUS
+* Definition: The Norwalk virus is one cause of stomach flu (viral gastroenteritis). It is usually acquired through contaminated food or water. In 2002 and 2003 this received significant media attention when several cruise ships had outbreaks in which hundreds of passengers were affected.
+* Symptoms: acute onset of diarrhea, vomiting, abdominal cramps. In adults there is usually more diarrhea than vomiting. The symptoms typically last 1 to 2 days.
+* Epidemiology: The Norwalk virus is the number one cause of epidemic gastroenteritis. Outbreaks have been reported in restaurants, nursing homes, hospitals, and vacation settings like cruise ships.
+* Incubation period: 1-3 days
+* Prevention: How can one avoid exposure while on a vacation? Avoid uncooked food. Drink bottled water (avoid ice cubes). Wash your hands frequently. Do not share glassware or eating utensils.
+* Treatment: Antibiotics are not helpful since this is a viral infection. Maintaining adequate hydration through intake of oral liquids is the most important thing. Pepto-Bismol can be used.
+
+SEXUALLY TRANSMITTED INTESTINAL INFECTIONS
+
+Receptive anal or oral-anal sex increases the risk of certain intestinal infections that can cause diarrhea. Men Who Have Sex with Men (MSM) are at increased risk.
+* Causes: These infections can be caused by bacteria or parasites. Sexually transmitted infections (e.g., chlamydia, gonorrhea, syphilis) can also cause rectal infections and diarrhea.
+* Diagnosis: Diagnosis is made by testing the stool (e.g., culture, ova and parasites) and testing for sexually transmitted infections.
+
+To prevent spread, those at risk should:
+* Wash hands after using the bathroom and before eating.
+* Avoid swimming until 2 weeks after diarrhea stops.
+* Avoid sex while having symptoms and for 7 days after symptoms stop.
+* Use condoms for sex.
+
+DEHYDRATION - ESTIMATION BY TELEPHONE...
+
+In general, an adult who is alert, feels well, and who is not thirsty or dizzy, is NOT dehydrated. A couple loose or runny stools do not cause dehydration. Frequent, watery stools can cause dehydration.
+
+Signs and Symptoms of MILD DEHYDRATION
+* Mental status: Well, alert
+* Urine production: slightly decreased
+* Urine color: yellow
+* Mucous membranes: normal
+* Heart rate: Normal, < 100 beats / minute
+* Thirst: Slightly thirsty.
+* Capillary refill: < 2 sec
+* TRIAGE DISPOSITION AND TREATMENT: Can usually treat at home.
+
+Signs and Symptoms of MODERATE DEHYDRATION
+* Mental status: Alert, tired; lightheaded when standing
+* Urine production: minimal or absent, last urinated over 12 hours
+* Urine color: dark yellow
+* Mucous membranes: dry inside of mouth
+* Heart rate: Increased; 100-130 beats / minute
+* Thirst: Thirsty, drinks eagerly
+* Capillary refill: > 2 sec
+* TRIAGE DISPOSITION AND TREATMENT: Must be seen; Go to ED Now (or PCP triage).
+
+Signs and Symptoms of SEVERE DEHYDRATION (EARLY SHOCK)
+* Mental status: Very weak and lightheaded; very tired; fainting may occur; may be too weak to stand or walk
+* Urine production: Minimal or absent, last urinated over 12 hours
+* Urine color: dark yellow-brown
+* Mucous membranes: Parched or very dry inside of mouth
+* Heart rate: Rapid, > 130 beats / minute
+* Thirst: May be very thirsty, however, may drink poorly or not able to drink
+* Capillary refill: > 2-4 sec
+* TRIAGE DISPOSITION AND TREATMENT: Must be seen immediately; Go to ED NOW or CALL EMS 911 NOW.
+
+Signs and Symptoms of SHOCK
+* Mental status: Confused, difficult to awaken, or unresponsive
+* Heart rate: Pulse is rapid and weak (thready); heart rate may become slow
+* Skin: Extremities (especially hands and feet) are bluish or gray, and cold
+* Capillary Refill: > 4 seconds
+* TRIAGE DISPOSITION AND TREATMENT: Lie down with the feet elevated; CALL EMS 911 NOW.","<p><strong>Key Points</strong></p><ul><li>The majority of adults with acute diarrhea (less than 14 days duration) have an infectious etiology for their diarrhea, and in most cases the infection is a virus. Other common causes of acute diarrhea are food poisoning and medications.</li><li>Maintaining hydration is the cornerstone of treatment for adults with acute diarrhea.</li><li>In general, an adult who is alert, feels well, and who is not thirsty or dizzy: is NOT dehydrated. A couple loose or runny stools do not cause dehydration. Frequent, watery stools can cause dehydration.</li><li>Antibiotic therapy is only rarely required in the treatment of acute diarrhea. Two types of acute diarrhea that require antibiotic therapy are C. difficile diarrhea and (sometimes) Traveler's Diarrhea.</li></ul><p><strong>Causes</strong></p><ul><li>Antibiotic side effect (e.g., temporary diarrhea from Augmentin / amoxicillin clavulanic acid)</li><li>Bacterial gastroenteritis (i.e., Campylobacter, Salmonella, Shigella)</li><li>Cathartics, excessive use of (e.g., magnesium citrate, milk of magnesia)</li><li>Food poisoning</li><li>Giardiasis</li><li>Inflammatory bowel disease</li><li>Irritable bowel syndrome</li><li><em>Pseudomembranous colitis:</em> Pseudomembranous colitis is an inflammation in the colon that occurs in some people from taking antibiotics. It is usually caused by an over-growth of a specific type bacteria called <em>Clostridium difficile</em> (<em>C. difficile</em>). Other names that are used to describe this illness include antibiotic-associated diarrhea and <em>C. difficile</em> colitis.</li><li>Traveler's diarrhea</li><li>Viral gastroenteritis</li></ul><p><strong>Traveler's Diarrhea</strong></p><ul><li><em>Definition:</em> Traveler's diarrhea typically begins within two weeks of traveling to a foreign country. There are bacteria in the water and food that the body is not used to and a diarrheal infection is the result. Traveler's diarrhea is also called &quot;mummy tummy,&quot; &quot;Montezuma's revenge,&quot; and &quot;turista&quot;.</li><li><em>Symptoms:</em> Passage of at least three loose stools a day; accompanying symptoms may include nausea, vomiting, abdominal cramping, fecal urgency, and fever.</li><li><em>Region and Risk:</em> Travelers to the following developing areas have a <strong>high-risk</strong> (40%) of getting traveler's diarrhea: Latin America, Africa, South Asia. There is an <strong>intermediate-risk</strong> (15%) with travel to Northern Mediterranean countries, the Middle East, China, and Russia. Travelers to the United States, Western Europe, Canada, and Japan have a <strong>low risk</strong> (2-4%) of getting traveler's Diarrhea.</li><li><em>Prevention: Diet:</em> Avoid uncooked foods (salad). Cooked foods (served steaming hot) are usually safe as are dry foods (e.g., bread). Avoid ice cubes and tap water. Drink steaming beverages (e.g., coffee, tea) or carbonated drinks (e.g., bottled soft drinks, beer). Fruits that can be peeled are usually safe (e.g., oranges, bananas, apples).</li><li><em>Prevention: Bismuth Subsalicylate:</em> Bismuth (Pepto-Bismol 8 tablets daily PO) is approximately 65% effective at preventing Traveler's Diarrhea.</li><li><em>Prevention: Antibiotics:</em> Antibiotic chemoprophylaxis (prevention) during travel may be indicated in certain circumstances. Rifaximin (200 mg PO BID with meals) is approximately 70-80% effective at preventing traveler's diarrhea.</li><li><em>Treatment - Anti-Diarrheal Agents:</em> Bismuth subsalicylate (Pepto-Bismol) and loperamide (Imodium AD) are both effective at reducing the diarrhea symptoms.</li><li><em>Treatment - Antibiotics:</em> Antibiotic therapy is sometimes recommended to treat this type of diarrhea, especially if the symptoms are more than mild. There are a number of antibiotics that are effective including ciprofloxacin (Cipro), azithromycin (Zithromax), and rifaximin (Xifaxan 200 mg PO TID for 3 days).</li></ul><p><strong>Norwalk Virus</strong></p><ul><li><em>Definition:</em> The Norwalk virus is one cause of stomach flu (viral gastroenteritis). It is usually acquired through contaminated food or water. In 2002 and 2003 this received significant media attention when several cruise ships had outbreaks in which hundreds of passengers were affected.</li><li><em>Symptoms:</em> acute onset of diarrhea, vomiting, abdominal cramps. In adults there is usually more diarrhea than vomiting. The symptoms typically last 1 to 2 days.</li><li><em>Epidemiology:</em> The Norwalk virus is the number one cause of epidemic gastroenteritis. Outbreaks have been reported in restaurants, nursing homes, hospitals, and vacation settings like cruise ships.</li><li><em>Incubation period:</em> 1-3 days</li><li><em>Prevention:</em> How can one avoid exposure while on a vacation? Avoid uncooked food. Drink bottled water (avoid ice cubes). Wash your hands frequently. Do not share glassware or eating utensils.</li><li><em>Treatment:</em> Antibiotics are not helpful since this is a viral infection. Maintaining adequate hydration through intake of oral liquids is the most important thing. Pepto-Bismol can be used.</li></ul><p><strong>Sexually Transmitted Intestinal Infections</strong></p><p>Receptive anal or oral-anal sex increases the risk of certain intestinal infections that can cause diarrhea. Men Who Have Sex with Men (MSM) are at increased risk.</p><ul><li><em>Causes:</em> These infections can be caused by bacteria or parasites. Sexually transmitted infections (e.g., chlamydia, gonorrhea, syphilis) can also cause rectal infections and diarrhea.</li><li><em>Diagnosis:</em> Diagnosis is made by testing the stool (e.g., culture, ova and parasites) and testing for sexually transmitted infections.</li></ul><p><br />To prevent spread, those at risk should:</p><ul><li>Wash hands after using the bathroom and before eating.</li><li>Avoid swimming until 2 weeks after diarrhea stops.</li><li>Avoid sex while having symptoms and for 7 days after symptoms stop.</li><li>Use condoms for sex.</li></ul><p><strong>Dehydration - Estimation By Telephone...</strong></p><p>In general, an adult who is alert, feels well, and who is not thirsty or dizzy, is NOT dehydrated. A couple loose or runny stools do not cause dehydration. Frequent, watery stools can cause dehydration.</p><p>Signs and Symptoms of <strong>Mild Dehydration</strong></p><ol><li><em>Mental status:</em> Well, alert</li><li><em>Urine production:</em> slightly decreased</li><li><em>Urine color:</em> yellow</li><li><em>Mucous membranes:</em> normal</li><li><em>Heart rate:</em> Normal, &lt; 100 beats / minute</li><li><em>Thirst:</em> Slightly thirsty.</li><li><em>Capillary refill:</em> &lt; 2 sec</li><li><strong>Triage Disposition and Treatment:</strong> Can usually treat at home.</li></ol><p>Signs and Symptoms of <strong>Moderate Dehydration</strong></p><ol><li><em>Mental status:</em> Alert, tired; lightheaded when standing</li><li><em>Urine production:</em> minimal or absent, last urinated over 12 hours</li><li><em>Urine color:</em> dark yellow</li><li><em>Mucous membranes:</em> dry inside of mouth</li><li><em>Heart rate:</em> Increased; 100-130 beats / minute</li><li><em>Thirst:</em> Thirsty, drinks eagerly</li><li><em>Capillary refill:</em> &gt; 2 sec</li><li><strong>Triage Disposition and Treatment:</strong> Must be seen; Go to ED Now (or PCP triage).</li></ol><p>Signs and Symptoms of <strong>Severe Dehydration (Early Shock)</strong></p><ol><li><em>Mental status:</em> Very weak and lightheaded; very tired; fainting may occur; may be too weak to stand or walk</li><li><em>Urine production:</em> Minimal or absent, last urinated over 12 hours</li><li><em>Urine color:</em> dark yellow-brown</li><li><em>Mucous membranes:</em> Parched or very dry inside of mouth</li><li><em>Heart rate:</em> Rapid, &gt; 130 beats / minute</li><li><em>Thirst:</em> May be very thirsty, however, may drink poorly or not able to drink</li><li><em>Capillary refill:</em> &gt; 2-4 sec</li><li><strong>Triage Disposition and Treatment:</strong> Must be seen immediately; Go to ED NOW or CALL EMS 911 NOW.</li></ol><p>Signs and Symptoms of <strong>Shock</strong></p><ol><li><em>Mental status:</em> Confused, difficult to awaken, or unresponsive</li><li><em>Heart rate:</em> Pulse is rapid and weak (thready); heart rate may become slow</li><li><em>Skin:</em> Extremities (especially hands and feet) are bluish or gray, and cold</li><li><em>Capillary Refill:</em> &gt; 4 seconds</li><li><strong>Triage Disposition and Treatment:</strong> Lie down with the feet elevated; CALL EMS 911 NOW.</li></ol>","2022-02-17 08:10:44","FIRST AID ADVICE FOR SHOCK: Lie down with the feet elevated.","<p><strong>FIRST AID Advice for Shock</strong>: Lie down with the feet elevated. </p>","2008-03-04 06:39:10","2020-12-26 16:36:16","2011-05-28 14:27:50","2021-12-06 10:25:56","2022-03-21 08:23:08","False","Adult","Adult After-Hours Version","Symptom","Gastrointestinal","Abdomen Symptoms","2022","Active","4","B","Adult","18","120","216","1440","False","False","True","False","False","False","False"
+"189","David A. Thompson, MD, FACEP","Copyright 2000-2022, LaGrange Medical Software, Inc.","2001-05-02 14:20:43","2022-03-20 17:16:36","2022-03-20 17:17:19","Diabetes - High Blood Sugar","DIABETES - HIGH BLOOD SUGAR","2001-05-20 19:07:52","* Patient with known diabetes mellitus
+* Has a high blood sugar (hyperglycemia), defined as a blood glucose > 200 mg/dL (11.1 mmol/L)
+* Has symptoms of high blood sugar
+* Has questions regarding high blood sugar
+
+SYMPTOMS of High Blood Sugar (Hyperglycemia) include:
+* Mild hyperglycemia: Most often patient will have no symptoms.
+* Moderate hyperglycemia: polyuria, polydipsia, fatigue, blurred vision.
+* Severe hyperglycemia: confusion and coma.
+* Diabetic ketoacidosis (DKA): fruity odor on breath, vomiting, rapid breathing, weakness, confusion, and coma.","<ul><li>Patient with known diabetes mellitus</li><li>Has a high blood sugar (hyperglycemia), defined as a blood glucose &gt; 200 mg/dL (11.1 mmol/L)</li><li>Has symptoms of high blood sugar</li><li>Has questions regarding high blood sugar</li></ul><p><strong>SYMPTOMS</strong> of High Blood Sugar (Hyperglycemia) include:</p><ul><li><em>Mild hyperglycemia</em>: Most often patient will have no symptoms.</li><li><em>Moderate hyperglycemia</em>: polyuria, polydipsia, fatigue, blurred vision.</li><li><em>Severe hyperglycemia</em>: confusion and coma.</li><li><em>Diabetic ketoacidosis</em> (DKA): fruity odor on breath, vomiting, rapid breathing, weakness, confusion, and coma.</li></ul>","2019-05-05 05:35:02","1. BLOOD GLUCOSE: ""What is your blood glucose level?"" 
+2. ONSET: ""When did you check the blood glucose?""
+3. USUAL RANGE: ""What is your glucose level usually?"" (e.g., usual fasting morning value, usual evening value)
+4. KETONES: ""Do you check for ketones (urine or blood test strips)?"" If yes, ask: ""What does the test show now?"" 
+5. TYPE 1 or 2:  ""Do you know what type of diabetes you have?""  (e.g., Type 1, Type 2, Gestational; doesn't know) 
+6. INSULIN: ""Do you take insulin?"" ""What type of insulin(s) do you use? What is the mode of delivery? (syringe, pen; injection or pump)?"" 
+7. DIABETES PILLS: ""Do you take any pills for your diabetes?"" If yes, ask: ""Have you missed taking any pills recently?""
+8. OTHER SYMPTOMS: ""Do you have any symptoms?"" (e.g., fever, frequent urination, difficulty breathing, dizziness, weakness, vomiting)
+9. PREGNANCY: ""Is there any chance you are pregnant?"" ""When was your last menstrual period?""","2020-02-04 16:43:02","CAUSES OF HYPERGLYCEMIA (HIGH BLOOD SUGAR)
+
+There are a number of other factors that can cause or increase the likelihood of hyperglycemia.
+* Infection
+* Malfunctioning insulin pump
+* Noncompliance with diabetes diet
+* Noncompliance with taking insulin or other diabetes medicines. Forgetting to take insulin is the most common cause.
+* Steroid medications (e.g., Prednisone, Medrol dose pack)
+* ... or a combination of these factors.
+
+DIABETES MELLITUS
+
+Diabetes mellitus is an endocrine condition in which patients have elevated blood glucose levels (hyperglycemia). Insulin is a hormone produced by the pancreas.
+
+The classic symptoms of untreated or undertreated diabetes are:
+* Frequent urination (polyuria),
+* Polydipsia (excessive thirst), and
+* Involuntary weight loss.
+
+There are four different classes of diabetes mellitus:
+* Type 1 diabetes
+* Type 2 diabetes
+* Gestational diabetes
+* Specific types of diabetes due to other causes
+
+What is the role of insulin?
+* Insulin helps the body process and store the glucose it gets from food.
+* Eating food makes the blood glucose rise and insulin makes the blood glucose fall.
+
+TYPE 1 DIABETES
+* Other names: insulin dependent diabetes mellitus (IDDM), juvenile onset diabetes.
+* Physiology: There is no production of insulin by the body.
+* Ketosis-prone: Patients with this type of diabetes are ketosis-prone. This means that if they do not receive daily insulin shots, their bodies break down fats and produce ketones. The ketones spill into the urine and can be measured. Patients with type I diabetes are at risk for developing Diabetic KetoAcidosis (DKA), a life-threatening condition.
+* Onset: It most commonly first appears in childhood or adolescence. Approximately 10% of people with diabetes are type 1.
+* Treatment: Subcutaneous insulin is required and needs to be given a least once daily. Patients striving for tighter control of their blood glucose will take insulin more often than once a day. Recommended therapy for type 1 diabetes includes: 1) use of multiple-dose insulin injections (3–4 injections per day) and 2) matching of mealtime (prandial) insulin to carbohydrate intake, before meal blood glucose reading, and anticipated exercise.
+
+TYPE 2 DIABETES
+* Other names: Non-Insulin Dependent Diabetes Mellitus (NIDDM), Adult-Onset Diabetes
+* Physiology: There is decreased insulin production and decreased sensitivity to insulin.
+* Not ketosis-prone: These patients are not prone to ketosis. DKA rarely occurs.
+* Onset: It more commonly develops in elderly and overweight adults.
+* Treatment: The initial and most important treatments are exercise and weight loss. When these measures fail, oral medicines (e.g., metformin) can be prescribed. These medicines help the body make more insulin or use the insulin more effectively. Occasionally patients require insulin therapy.
+* Diagnosis: Probably the best way to diagnose diabetes is an A1C test. A value of 6.5% or above indicates diabetes. There are two other tests that have long been used for diagnosing diabetes: a fasting plasma glucose (FPG) of 126 mg/dL (7.0 mmol/L) or above and a 2-hour oral glucose tolerance test (OGTT) with a glucose of 200 mg/dL (11.1 mmol/L) or above.
+
+GESTATIONAL DIABETES
+
+Gestational diabetes is diabetes that is found for the first time when a woman is pregnant.
+* Other names: Pregnancy-induced diabetes
+* Physiology: In gestational diabetes, the body is not making sufficient insulin to keep pace with the weight gain and other hormonal changes of pregnancy.
+* Not ketosis-prone: These patients are not prone to ketosis. DKA rarely occurs.
+* Onset: It occurs during pregnancy.
+* Treatment: A meal plan and regular physical activity are important. If these measures fail, diabetes medicine (usually insulin) may be prescribed.
+
+DIABETIC KETOACIDOSIS (DKA)
+* Definition: Blood glucose > 240 mg/dL (13.3 mmol/L) with acidosis and ketosis (urine ketones moderate to large; or blood ketones > 1.4 mmol/L)
+* Symptoms of DKA: In addition to symptoms of hyperglycemia, fruity odor on breath, vomiting, rapid/deep breathing, confusion, and coma.
+* Causes: Poor compliance or inadequate use of insulin in type 1 diabetes, infections.
+
+KETONE TESTING
+
+People with diabetes who take insulin should test for ketones when their blood sugar is more than 240 mg/dL (13.3 mmol/L). They should also check for ketones when they are sick or have symptoms of ketoacidosis (vomiting, fruity breath, or rapid breathing). Detecting ketosis early is important in order to help prevent life-threatening diabetic ketoacidosis.
+
+There are now two ways patients can test for ketones at home.
+* URINE KETONE TESTS: Many patients test for urine ketones (urine acetoacetrate) by doing a urine ketone test. Testing kits are available at local drugstores. The results indicate the amount of urine ketones as small, moderate, or large. Moderate to large amount ketones indicate ketosis.
+* BLOOD KETONE TESTS: Some blood glucose test meters now allow the patient to also test for blood ketones (blood β-hydroxybutyrate) at the same time. The blood ketone test does require a different strip made just for ketone tests. Blood ketone tests may detect ketones a bit sooner than urine ketone test. The blood ketone tests give the patient a number reading. A number below 0.6 mmol/L is considered normal. Numbers between 0.6 to 1.4 mmol/L means ketosis is developing and the patient should call their doctor for further instructions. Numbers more than 1.4 mmol/L means ketosis is concerning and patients should call their doctor (or NP/PA) or seek medical care now.
+
+TYPES OF INSULIN
+
+There are different types of insulin. They vary in how quickly they start to work, when they peak, and how long they last.
+* Rapid-acting (Humalog/lispro, NovoLog/aspart, Apidra/gluisine): onset 5-15 minutes; peaks 30-90 minutes; lasts 4-6 hours.
+* Short-acting (Regular, Humulin R, Novolin R): onset 30-60 minutes; peaks 2-3 hours; lasts 5-8 hours.
+* Intermediate-acting (NPH, Lente, Humulin N, Humulin L, Novolin N, Novolin L): onset 2-4 hours; peaks 4-12 hours; lasts 10-18 hours.
+* Long-acting (Lantus/glargine, Levemir/detemir): onset 2-4 hours; no true peak; lasts 18-24 hours.
+* Newer long-acting insulins (Tresiba/degludec, Basaglar/glargine, Toujeo/glargine): last more than 24 hours.
+* Pre-mixed (Humulin 70/30, Humulin 50/50, Humalog mix, NovoLog mix): 2 peaks; lasts 10-16 hours; depends on mixture.
+* Inhaled (Afrezza): onset 12-15 minutes; peaks 35-55 minutes; lasts 3 hours.
+
+INSULIN ROUTINES
+
+Insulin is required for all people with type 1 diabetes. It is sometimes needed for people with type 2 diabetes.
+* Insulin Injections: Once daily long-acting insulin works by providing the basal (baseline) level of insulin the body needs all day long. It does not cover the extra insulin needed when a person eats meals. It may be used alone in patients with type 2 diabetes. Patients with type 1 diabetes often need a combination of insulin types (shorter and longer-acting) and may need 3 to 4 injections per day.
+* Continuous subcutaneous insulin infusion
+
+People can take insulin in different ways:
+* Injection or shot (needle and syringe)
+* Insulin pen
+* Insulin pump
+
+An inhaled form of insulin (Arezza) has recently been developed.
+
+TYPES OF ORAL MEDICINES
+
+There are many different types of oral medicines (pills) for treating diabetes.
+* Alpha-glucosidase inhibitors: Examples include acarbose (Precose, Glucobay) and miglitol (Glyset).
+* Biguanides: Examples include metformin (Glucophage, Glumetza, Fortamet, generics). Metformin is the preferred first drug to use in people with type 2 diabetes.
+* DPP-4 Inhibitors: Examples include Sitagliptin (Januvia), saxagliptin (Onglyza), linagliptin (Tradjenta), and alogliptin (Nesina).
+* Meglitinides: Examples include repaglinide (Prandin; Gluconorm available in Canada) and nateglinide (Starlix).
+* SGLT2 Inhibitors: Examples are canagliflozin (Invokana), dapagliflozin (Farxiga), empagliflozin (Jardiance). SGLT2 inhibitors increase the risk of DKA. SGLT2 inhibitors are associated with Euglycemic DKA (i.e., DKA with normal or near normal glucose levels).
+* Sulfonylureas: Examples include glyburide (Micronase, DiaBeta, generics), glipizide (Glucotrol, Glucotrol XL, generics), gliclazide (Diamicron, generics), and glimepiride (Amaryl).
+* Thiazolidinediones: Examples include rosiglitazone (Avandia) and pioglitazone (Actos).
+
+TYPES OF NON-INSULIN INJECTED MEDICINES
+
+This is a relatively new type of medicine used to treat diabetes.
+* GLP1 Agonists: Examples include liraglutide (Victoza), dulaglutide (Trulicity), semaglutide (Ozempic), exenatide (Bydureon, Byetta).
+
+GOALS FOR DIABETES MANAGEMENT
+
+Goals should be individualized based upon: age/life expectancy, duration of diabetes, comorbid conditions, hypoglycemic unawareness, history of severe hypoglycemic reactions, pregnancy, and other individual considerations. Internet Resource: ADA Standards of Medical Care in Diabetes 2016; available at: http://care.diabetesjournals.org/content/39/Supplement_1
+
+Depending on the patient, the BLOOD GLUCOSE should be measured 1-3 times per day. The ADA recommends the following blood glucose goals:
+* Pre-prandial (before meal): 80-130 mg/dL (4.4-7.2 mmol/L)
+* Post-prandial (1-2 hours after a meal): Less than 180 mg/dL (10 mmol/L)
+
+The GLYCOSYLATED HEMOGLOBIN (HBA1C OR A1C) provides a good estimate of how well a patient has managed their diabetes during the past 2-3 months. The HbA1C is the primary goal for diabetes management. Depending on the patient, it should be measured 2-4 times a year. With good diabetes management, the HbA1c goes down. With poor management it goes up. In general, the higher the HbA1c, the greater the risk of the long-term diabetes complications.
+
+What is the target level for HbA1c?
+* The American Association of Clinical Endocrinologists (AACE) and the American College of Endocrinology (ACE) recommend a level of less than 6.5%.
+* The American Diabetes Association (ADA) recommends a goal of less than 7.0% for non-pregnant adults.
+* The Canadian Diabetes Association also recommends a goal of less than 7.0%.
+* The United Kingdom NICE guidelines recommend a level of less than 6.5%.
+
+Less stringent HbA1c goals (less than 8%) may be appropriate for:
+* Patients at risk of severe hypoglycemia, or
+* Who have limited life expectancy, or
+* Who already have serious complications from diabetes
+
+LONG-TERM COMPLICATIONS OF DIABETES MELLITUS
+* Eye disease (e.g., retinopathy): Diabetes is the leading cause of blindness.
+* Heart disease (e.g., coronary heart disease, myocardial infarction)
+* Kidney disease (e.g., renal failure, proteinuria)
+* Nerve disease (e.g., peripheral and autonomic neuropathy)
+* Stroke
+
+CONVERTING GLUCOSE LEVELS: MG/DL AND MMOL/L
+* In the United State glucose is typically measured using the units MG/DL. Nearly every country in the world (including Canada) measures glucose levels using the units MMOL/L.
+* To convert mmol/L of glucose to mg/dL, multiply by 18.
+* To convert mg/dL of glucose to mmol/L, divide by 18 or multiply by 0.055.
+
+SCREENING FOR DIABETES
+* HEMOGLOBIN A1C:  6.4 (Type 2 Diabetes)
+* FASTING GLUCOSE MG/DL:  125 (Type 2 Diabetes)
+* FASTING GLUCOSE MMOL/L:  6.9 (Type 2 Diabetes)","<p><strong>Causes of Hyperglycemia (High Blood Sugar)</strong></p><p>There are a number of other factors that can cause or increase the likelihood of hyperglycemia.</p><ul><li>Infection</li><li>Malfunctioning insulin pump</li><li>Noncompliance with diabetes diet</li><li>Noncompliance with taking insulin or other diabetes medicines. Forgetting to take insulin is the most common cause.</li><li>Steroid medications (e.g., Prednisone, Medrol dose pack)</li><li><em>... or a combination of these factors.</em></li></ul><p><strong>Diabetes Mellitus</strong></p><p>Diabetes mellitus is an endocrine condition in which patients have elevated blood glucose levels (hyperglycemia). Insulin is a hormone produced by the pancreas.</p><p>The classic symptoms of untreated or undertreated diabetes are:</p><ul><li>Frequent urination (polyuria),</li><li>Polydipsia (excessive thirst), and</li><li>Involuntary weight loss.</li></ul><p>There are four different classes of diabetes mellitus:</p><ul><li>Type 1 diabetes</li><li>Type 2 diabetes</li><li>Gestational diabetes</li><li>Specific types of diabetes due to other causes</li></ul><p>What is the role of insulin?</p><ul><li>Insulin helps the body process and store the glucose it gets from food.</li><li>Eating food makes the blood glucose rise and insulin makes the blood glucose fall.</li></ul><p><strong>Type 1 Diabetes</strong></p><ul><li><em>Other names:</em> insulin dependent diabetes mellitus (IDDM), juvenile onset diabetes.</li><li><em>Physiology:</em> There is no production of insulin by the body.</li><li><em>Ketosis-prone:</em> Patients with this type of diabetes are ketosis-prone. This means that if they do not receive daily insulin shots, their bodies break down fats and produce ketones. The ketones spill into the urine and can be measured. Patients with type I diabetes are at risk for developing Diabetic KetoAcidosis (DKA), a life-threatening condition.</li><li><em>Onset:</em> It most commonly first appears in childhood or adolescence. Approximately 10% of people with diabetes are type 1.</li><li><em>Treatment:</em> Subcutaneous insulin is required and needs to be given a least once daily. Patients striving for tighter control of their blood glucose will take insulin more often than once a day. Recommended therapy for type 1 diabetes includes: <em>1</em>) use of multiple-dose insulin injections (3–4 injections per day) and <em>2</em>) matching of mealtime (prandial) insulin to carbohydrate intake, before meal blood glucose reading, and anticipated exercise.</li></ul><p><strong>Type 2 Diabetes</strong></p><ul><li><em>Other names:</em> Non-Insulin Dependent Diabetes Mellitus (NIDDM), Adult-Onset Diabetes</li><li><em>Physiology:</em> There is decreased insulin production and decreased sensitivity to insulin.</li><li><em>Not ketosis-prone:</em> These patients are not prone to ketosis. DKA rarely occurs.</li><li><em>Onset:</em> It more commonly develops in elderly and overweight adults.</li><li><em>Treatment:</em> The initial and most important treatments are exercise and weight loss. When these measures fail, oral medicines (e.g., metformin) can be prescribed. These medicines help the body make more insulin or use the insulin more effectively. Occasionally patients require insulin therapy.</li><li><em>Diagnosis:</em> Probably the best way to diagnose diabetes is an A1C test. A value of 6.5% or above indicates diabetes. There are two other tests that have long been used for diagnosing diabetes: a fasting plasma glucose (FPG) of 126 mg/dL (7.0 mmol/L) or above and a 2-hour oral glucose tolerance test (OGTT) with a glucose of 200 mg/dL (11.1 mmol/L) or above.</li></ul><p><strong>Gestational Diabetes</strong></p><p>Gestational diabetes is diabetes that is found for the first time when a woman is pregnant.</p><ul><li><em>Other names:</em> Pregnancy-induced diabetes</li><li><em>Physiology:</em> In gestational diabetes, the body is not making sufficient insulin to keep pace with the weight gain and other hormonal changes of pregnancy.</li><li><em>Not ketosis-prone:</em> These patients are not prone to ketosis. DKA rarely occurs.</li><li><em>Onset:</em> It occurs during pregnancy.</li><li><em>Treatment:</em> A meal plan and regular physical activity are important. If these measures fail, diabetes medicine (usually insulin) may be prescribed.</li></ul><p><strong>Diabetic Ketoacidosis (DKA)</strong></p><ul><li><em>Definition:</em> Blood glucose &gt; 240 mg/dL (13.3 mmol/L) with acidosis and ketosis (urine ketones moderate to large; or blood ketones &gt; 1.4 mmol/L)</li><li><em>Symptoms of DKA:</em> In addition to symptoms of hyperglycemia, fruity odor on breath, vomiting, rapid/deep breathing, confusion, and coma.</li><li><em>Causes:</em> Poor compliance or inadequate use of insulin in type 1 diabetes, infections.</li></ul><p><strong>Ketone Testing</strong></p><p>People with diabetes who take insulin should test for ketones when their blood sugar is more than 240 mg/dL (13.3 mmol/L). They should also check for ketones when they are sick or have symptoms of ketoacidosis (vomiting, fruity breath, or rapid breathing). Detecting ketosis early is important in order to help prevent life-threatening diabetic ketoacidosis.</p><p>There are now two ways patients can test for ketones at home.</p><ul><li><strong>Urine Ketone Tests:</strong> Many patients test for urine ketones (urine acetoacetrate) by doing a urine ketone test. Testing kits are available at local drugstores. The results indicate the amount of urine ketones as small, moderate, or large. Moderate to large amount ketones indicate ketosis.</li><li><strong>Blood Ketone Tests:</strong> Some blood glucose test meters now allow the patient to also test for blood ketones (blood β-hydroxybutyrate) at the same time. The blood ketone test does require a different strip made just for ketone tests. Blood ketone tests may detect ketones a bit sooner than urine ketone test. The blood ketone tests give the patient a number reading. A number below 0.6 mmol/L is considered normal. Numbers between 0.6 to 1.4 mmol/L means ketosis is developing and the patient should call their doctor for further instructions. Numbers more than 1.4 mmol/L means ketosis is concerning and patients should call their doctor (or NP/PA) or seek medical care now.</li></ul><p><strong>Types of Insulin</strong></p><p>There are different types of insulin. They vary in how quickly they start to work, when they peak, and how long they last.</p><ul><li><em>Rapid-acting</em> (Humalog/lispro, NovoLog/aspart, Apidra/gluisine): onset 5-15 minutes; peaks 30-90 minutes; lasts 4-6 hours.</li><li><em>Short-acting (</em>Regular, Humulin R, Novolin R): onset 30-60 minutes; peaks 2-3 hours; lasts 5-8 hours.</li><li><em>Intermediate-acting</em> (NPH, Lente, Humulin N, Humulin L, Novolin N, Novolin L): onset 2-4 hours; peaks 4-12 hours; lasts 10-18 hours.</li><li><em>Long-acting</em> (Lantus/glargine, Levemir/detemir): onset 2-4 hours; no true peak; lasts 18-24 hours.</li><li><em>Newer long-acting insulins</em> (Tresiba/degludec, Basaglar/glargine, Toujeo/glargine): last more than 24 hours.</li><li><em>Pre-mixed</em> (Humulin 70/30, Humulin 50/50, Humalog mix, NovoLog mix): 2 peaks; lasts 10-16 hours; depends on mixture.</li><li><em>Inhaled</em> (Afrezza): onset 12-15 minutes; peaks 35-55 minutes; lasts 3 hours.</li></ul><p><strong>Insulin Routines</strong></p><p>Insulin is required for all people with type 1 diabetes. It is sometimes needed for people with type 2 diabetes.</p><ul><li><em>Insulin Injections:</em> Once daily long-acting insulin works by providing the basal (baseline) level of insulin the body needs all day long. It does not cover the extra insulin needed when a person eats meals. It may be used alone in patients with type 2 diabetes. Patients with type 1 diabetes often need a combination of insulin types (shorter and longer-acting) and may need 3 to 4 injections per day.</li><li><em>Continuous subcutaneous insulin infusion</em></li></ul><p>People can take insulin in different ways:</p><ul><li>Injection or shot (needle and syringe)</li><li>Insulin pen</li><li>Insulin pump</li></ul><p>An inhaled form of insulin (Arezza) has recently been developed.</p><p><strong>Types of Oral Medicines</strong></p><p>There are many different types of oral medicines (pills) for treating diabetes.</p><ul><li><em>Alpha-glucosidase inhibitors:</em> Examples include acarbose (Precose, Glucobay) and miglitol (Glyset).</li><li><em>Biguanides:</em> Examples include metformin (Glucophage, Glumetza, Fortamet, generics). Metformin is the preferred first drug to use in people with type 2 diabetes.</li><li><em>DPP-4 Inhibitors:</em> Examples include Sitagliptin (Januvia), saxagliptin (Onglyza), linagliptin (Tradjenta), and alogliptin (Nesina).</li><li><em>Meglitinides:</em> Examples include repaglinide (Prandin; Gluconorm available in Canada) and nateglinide (Starlix).</li><li><em>SGLT2 Inhibitors:</em> Examples are canagliflozin (Invokana), dapagliflozin (Farxiga), empagliflozin (Jardiance). SGLT2 inhibitors increase the risk of DKA. SGLT2 inhibitors are associated with Euglycemic DKA (i.e., DKA with normal or near normal glucose levels).</li><li><em>Sulfonylureas:</em> Examples include glyburide (Micronase, DiaBeta, generics), glipizide (Glucotrol, Glucotrol XL, generics), gliclazide (Diamicron, generics), and glimepiride (Amaryl).</li><li><em>Thiazolidinediones:</em> Examples include rosiglitazone (Avandia) and pioglitazone (Actos).</li></ul><p><strong>Types of Non-insulin Injected Medicines</strong></p><p>This is a relatively new type of medicine used to treat diabetes.</p><ul><li><em>GLP1 Agonists:</em> Examples include liraglutide (Victoza), dulaglutide (Trulicity), semaglutide (Ozempic), exenatide (Bydureon, Byetta).</li></ul><p><strong>Goals for Diabetes Management</strong></p><p>Goals should be individualized based upon: age/life expectancy, duration of diabetes, comorbid conditions, hypoglycemic unawareness, history of severe hypoglycemic reactions, pregnancy, and other individual considerations. <em>Internet Resource:</em> ADA Standards of Medical Care in Diabetes 2016; available at: <a href=""http://care.diabetesjournals.org/content/39/Supplement_1"">http://care.diabetesjournals.org/content/39/Supplement_1</a></p><p>Depending on the patient, the <strong>blood glucose</strong> should be measured 1-3 times per day. The ADA recommends the following blood glucose goals:</p><ul><li><em>Pre-prandial (before meal):</em> 80-130 mg/dL (4.4-7.2 mmol/L)</li><li><em>Post-prandial (1-2 hours after a meal):</em> Less than 180 mg/dL (10 mmol/L)</li></ul><p>The <strong>glycosylated hemoglobin (HbA1c or A1C)</strong> provides a good estimate of how well a patient has managed their diabetes during the past 2-3 months. The HbA1C is the primary goal for diabetes management. Depending on the patient, it should be measured 2-4 times a year. With good diabetes management, the HbA1c goes down. With poor management it goes up. In general, the higher the HbA1c, the greater the risk of the long-term diabetes complications.</p><p>What is the target level for HbA1c?</p><ul><li>The American Association of Clinical Endocrinologists (AACE) and the American College of Endocrinology (ACE) recommend a level of less than 6.5%.</li><li>The American Diabetes Association (ADA) recommends a goal of less than 7.0% for non-pregnant adults.</li><li>The Canadian Diabetes Association also recommends a goal of less than 7.0%.</li><li>The United Kingdom NICE guidelines recommend a level of less than 6.5%.</li></ul><p>Less stringent HbA1c goals (less than 8%) may be appropriate for:</p><ul><li>Patients at risk of severe hypoglycemia, or</li><li>Who have limited life expectancy, or</li><li>Who already have serious complications from diabetes</li></ul><p><strong>Long-Term Complications of Diabetes Mellitus</strong></p><ul><li>Eye disease (e.g., retinopathy): Diabetes is the leading cause of blindness.</li><li>Heart disease (e.g., coronary heart disease, myocardial infarction)</li><li>Kidney disease (e.g., renal failure, proteinuria)</li><li>Nerve disease (e.g., peripheral and autonomic neuropathy)</li><li>Stroke</li></ul><p><strong>Converting Glucose Levels: MG/DL and MMOL/L</strong></p><ul><li>In the United State glucose is typically measured using the units <strong>mg/dL</strong>. Nearly every country in the world (including Canada) measures glucose levels using the units <strong>mmol/L</strong>.</li><li>To convert mmol/L of glucose to mg/dL, multiply by 18.</li><li>To convert mg/dL of glucose to mmol/L, divide by 18 or multiply by 0.055.</li></ul><p><strong>Screening for Diabetes</strong></p><ul><li><strong>Hemoglobin A1c:</strong> &lt; 5.7 (Normal); 5.7 - 6.4 (Impaired Fasting Glucose); &gt; 6.4 (Type 2 Diabetes)</li><li><strong>Fasting Glucose mg/dL:</strong> &lt; 100 (Normal); 100 - 125 (Impaired Fasting Glucose); &gt; 125 (Type 2 Diabetes)</li><li><strong>Fasting Glucose mmol/L:</strong> &lt; 5.6 (Normal); 5.6 - 6.9 (Impaired Fasting Glucose); &gt; 6.9 (Type 2 Diabetes)</li></ul>","2021-08-19 00:00:00","FIRST AID ADVICE FOR HYPOGLYCEMIA -- GLUCOSE
+
+... IF BLOOD GLUCOSE < 70 mg/dL (3.9 mmol/L) or UNKNOWN, for a person who is conscious, able to follow commands, and able to swallow:
+* Give sugar (15-20 grams glucose) by mouth.
+* Each of the following has the right amount of sugar: GLUCOSE TABLETS (3-4 tablets; 15-20 grams); glucose gel (15-20 grams); fruit juice or non-diet soda (1/2 cup; 120 ml); milk (1 cup; 240 ml); pre-packaged juice box (1 box); Skittles candy (15); table sugar or honey (3 teaspoons; 15 ml).
+* Symptoms should begin to improve within 5-10 minutes. It may take 15-20 minutes for symptoms to go away completely.
+* REPEAT if not better within 15-20 minutes.
+
+FIRST AID ADVICE FOR HYPOGLYCEMIA -- GLUCAGON
+
+... IF BLOOD GLUCOSE < 70 mg/dL (3.9 mmol/L) or UNKNOWN (pending EMS arrival). Glucagon is preferred if patient is unconscious or unable to swallow:
+* If family or caregiver has glucagon for hypoglycemic emergencies AND the caller knows how to use it, instruct the caller to give the glucagon now.
+* Inject it IM into the upper outer thigh.
+* Adult dosage is 1 mg.
+* Glucagon can be used in unconscious patients.
+* Symptoms should begin to improve within 5-10 minutes. Full recovery may take 10-15 minutes.","<p><strong>FIRST AID Advice for Hypoglycemia -- Glucose</strong></p><p><em>... IF BLOOD GLUCOSE &lt; 70 mg/dL (3.9 mmol/L) or UNKNOWN, for a person who is conscious, able to follow commands, and able to swallow:</em></p><ul><li>Give sugar (15-20 grams glucose) by mouth.</li><li>Each of the following has the right amount of sugar: <strong>glucose tablets</strong> (3-4 tablets; 15-20 grams); glucose gel (15-20 grams); fruit juice or non-diet soda (1/2 cup; 120 ml); milk (1 cup; 240 ml); pre-packaged juice box (1 box); Skittles candy (15); table sugar or honey (3 teaspoons; 15 ml).</li><li>Symptoms should begin to improve within 5-10 minutes. It may take 15-20 minutes for symptoms to go away completely.</li><li><strong>Repeat</strong> if not better within 15-20 minutes.</li></ul><p><strong>FIRST AID Advice for Hypoglycemia -- Glucagon</strong></p><p><em>... IF BLOOD GLUCOSE &lt; 70 mg/dL (3.9 mmol/L) or UNKNOWN (pending EMS arrival). Glucagon is preferred if patient is unconscious or unable to swallow:</em></p><ul><li>If family or caregiver has glucagon for hypoglycemic emergencies AND the caller knows how to use it, instruct the caller to give the glucagon now.</li><li>Inject it IM into the upper outer thigh.</li><li>Adult dosage is 1 mg.</li><li>Glucagon can be used in unconscious patients.</li><li>Symptoms should begin to improve within 5-10 minutes. Full recovery may take 10-15 minutes.</li></ul>","2021-05-19 00:00:00","2019-12-17 14:24:36","2016-06-05 11:53:26","2022-01-30 07:56:51","2022-03-20 17:16:36","False","Adult","Adult After-Hours Version","Disease - Condition - Diagnosis","Gastrointestinal","Miscellaneous - Other","2022","Active","3","B","Adult","18","120","216","1440","False","False","True","True","False","False","False"
+"218","David A. Thompson, MD, FACEP","Copyright 2000-2022, LaGrange Medical Software, Inc.","2001-09-08 08:05:55","2021-12-29 00:00:00","2022-01-02 00:00:00","Pregnancy - Decreased or Abnormal Fetal Movement","PREGNANCY - DECREASED OR ABNORMAL FETAL MOVEMENT","2021-02-06 09:28:00","* Concerns that the baby is moving less, moving too much, or not moving at all
+* Concerns about an abnormal kick count (less than 5 in one hour or less than 10 in 2 hours)
+* Concerns and questions about fetal movement
+* Questions about how to perform a kick count
+
+Note:
+* Pregnant and patient is not in labor","<ul><li>Concerns that the baby is moving less, moving too much, or not moving at all</li><li>Concerns about an abnormal kick count (less than 5 in one hour or less than 10 in 2 hours)</li><li>Concerns and questions about fetal movement</li><li>Questions about how to perform a kick count</li></ul><p>Note:</p><ul><li>Pregnant and patient is not in labor</li></ul>","2021-06-24 14:19:36","1. FETAL MOVEMENT: ""Has the baby's movement decreased or changed significantly from normal?"" (e.g., yes, no; describe) ""When was the last time you felt the baby move?"" (e.g., minutes, hours)
+2. EDD: ""What date are you expecting to deliver?"" 
+3. PREGNANCY: ""How many weeks pregnant are you?"" 
+4. OTHER SYMPTOMS: ""Do you have any other symptoms?"" (e.g., abdominal pain, fever, leaking fluid from vagina, vaginal bleeding, widespread itching, etc.)","2021-06-24 13:21:34","KEY POINTS
+* Quickening is the term used to describe when a woman first feels baby movement. This usually occurs between the 18th-20th weeks of pregnancy. Women who have been pregnant previously can sometimes feel the baby move as early as the 16th or 17th week. Thin women feel movements earlier in pregnancy than overweight women.
+* Women use many different terms to describe their babies' movements. Early in pregnancy women may describe a 'fluttering', a 'nudge', a 'butterfly', or a slight 'twitch'. Later in pregnancy the baby is larger and the movements are more forceful. Women may then describe 'hard kicking', 'punching', or 'rolling'.
+* Feeling the baby move is a great source of happiness for the mother to be. The fetal movements provide ongoing reassurance that all is going well with the pregnancy. A decrease or absence of fetal movement can cause significant maternal anxiety regarding the well-being of her baby, and may be a sign of fetal compromise.
+
+FETAL HICCUPS
+* Fetal hiccups are common. Women usually first feel them in the second trimester. They become even more noticeable in the last trimester of pregnancy.
+* What does it feel like? Women use terms like 'tapping' or a 'regular beating' or just plain 'baby hiccups'.
+* Are they normal? While they may feel strange, they are normal and harmless. There is no reason for concern. Some doctors tell their patients that this is the baby 'practicing breathing and swallowing'.
+
+FETAL MOVEMENT DATES
+* 1-15 Weeks: Baby is too small for mother to feel the baby move.
+* 16-18 Weeks: Some women begin to feel the baby move, especially if they had a baby before.
+* 18-20 Weeks: Many women begin to feel baby move around this time.
+* 20-23 Weeks: Most women begin to feel baby move around this time.
+* 24 Weeks: All women should feel the baby move by this time.
+* Over 28 Weeks: Some doctors advise that women check kick counts each day.
+
+PERFORMING KICK COUNTS
+* Performing a daily 'kick count' or using a 'kick chart' is one way to track your baby's movement.
+* Some doctors recommend kick counts and some doctors do not.
+* In some cases (such as a high risk pregnancy), it may be more important to perform daily kick counts.
+* Research has shown that performing kick counts does not reduce stillbirths [Grant reference].
+
+KICK COUNT INSTRUCTIONS
+* Pick the time of the day that your baby is most active.
+* If you have not eaten much today, eating a snack or drinking some juice can make the baby more active.
+* Sit back in a comfortable chair or lie down on your left side in bed. Do this in a quiet room (no TV, cell phone, computer, or children).
+* Count any baby movement (kicks, rolls, flutters). Count up to 10.
+* NORMAL KICK COUNT: 5 or more in one hour or 10 or more in 2 hours.
+* LOW KICK COUNT: Less than 5 in one hour or less than 10 in 2 hours.
+
+INCREASED FETAL MOVEMENT
+
+Sometimes women will report that the baby is moving more or is 'extra wiggly'. Most often increased fetal activity is a positive sign of fetal well-being.
+* Many women report that their babies are most active at night.
+* Others note that the baby's movements increase after meals or in response to a stressful situation.
+* Babies have regular periods during a day when their movements increase.
+* Too much caffeine or sugar can possibly cause a baby to move more.
+
+Rarely, increased fetal movement can be a sign of fetal distress (hypoxia). Typically, in such a circumstance, the increased movement is followed by decreased fetal movement (e.g., a low kick count). For an anxious mother, the simplest and safest thing to do is to refer her in to L&D for fetal monitoring or arrange a call with her PCP.
+
+CALCULATING THE ESTIMATED DATE OF DELIVERY (EDD)
+* EDB (estimated date of birth) and EDC (estimated date of confinement) mean the same thing as EDD.
+* LNMP is the last normal menstrual period.
+* Nagele's rule: EDD = (LNMP - 3 months) + 7 days.
+
+CALCULATING THE ESTIMATED GESTATIONAL AGE (EGA)
+* Gestational age is the number of weeks since the LNMP.
+* A normal full-term pregnancy lasts 37-42 weeks.
+* WHEEL: Generally, the wheel is the best method for the triager to calculate the gestational age. The patient must be able to give you a relatively accurate LNMP. A wheel and a calculator are available on the internet at www.medcalc.com.
+* ULTRASOUND: An ultrasound during early pregnancy can be very accurate in setting the EDD, if patient has had one performed and can remember the results.
+* FUNDAL HEIGHT: The top of the uterus can be palpated at the level of the navel at 20 weeks of gestational age.
+* FETAL HEART TONES: Can be first heard with a doppler stethoscope at 10-12 weeks gestational age.
+
+EXPERT REVIEWERS
+* Marie Cabiya, MD, Medical Director for Obstetrics and Gynecology Resident Clinic; Advocate Illinois Masonic Medical Center Chicago, IL
+* Patrick Popiel, MD, Advanced Urogynecology & Female Pelvic Reconstructive Surgery | Departments of OB/GYN and Urology New York Medical College
+* Jeremy Waldhart, DO, Assistant Professor of Family Medicine Ascension Columbia St. Mary's Family Medicine Residency Medical College of Wisconsin Department of Family and Community Medicine, Wisconsin
+* The Author and Editorial Team are extremely grateful for this subject matter expertise and critical review.","<p><strong>Key Points</strong></p><ul><li>Quickening is the term used to describe when a woman first feels baby movement. This usually occurs between the 18th-20th weeks of pregnancy. Women who have been pregnant previously can sometimes feel the baby move as early as the 16th or 17th week. Thin women feel movements earlier in pregnancy than overweight women.</li><li>Women use many different terms to describe their babies' movements. Early in pregnancy women may describe a &quot;fluttering&quot;, a &quot;nudge&quot;, a &quot;butterfly&quot;, or a slight &quot;twitch&quot;. Later in pregnancy the baby is larger and the movements are more forceful. Women may then describe &quot;hard kicking&quot;, &quot;punching&quot;, or &quot;rolling&quot;.</li><li>Feeling the baby move is a great source of happiness for the mother to be. The fetal movements provide ongoing reassurance that all is going well with the pregnancy. A decrease or absence of fetal movement can cause significant maternal anxiety regarding the well-being of her baby, and may be a sign of fetal compromise.</li></ul><p><strong>Fetal Hiccups</strong></p><ul><li>Fetal hiccups are common. Women usually first feel them in the second trimester. They become even more noticeable in the last trimester of pregnancy.</li><li><em>What does it feel like?</em> Women use terms like &quot;tapping&quot; or a &quot;regular beating&quot; or just plain &quot;baby hiccups&quot;.</li><li><em>Are they normal?</em> While they may feel strange, they are normal and harmless. There is no reason for concern. Some doctors tell their patients that this is the baby &quot;practicing breathing and swallowing&quot;.</li></ul><p><strong>Fetal Movement Dates</strong></p><ul><li><em>1-15 Weeks:</em> Baby is too small for mother to feel the baby move.</li><li><em>16-18 Weeks:</em> Some women begin to feel the baby move, especially if they had a baby before.</li><li><em>18-20 Weeks:</em> Many women begin to feel baby move around this time.</li><li>20-23 Weeks: Most women begin to feel baby move around this time.</li><li><em>24 Weeks:</em> All women should feel the baby move by this time.</li><li><em>Over 28 Weeks:</em> Some doctors advise that women check kick counts each day.</li></ul><p><strong>Performing Kick Counts</strong></p><ul><li>Performing a daily &quot;kick count&quot; or using a &quot;kick chart&quot; is one way to track your baby's movement.</li><li>Some doctors recommend kick counts and some doctors do not.</li><li>In some cases (such as a high risk pregnancy), it may be more important to perform daily kick counts.</li><li>Research has shown that performing kick counts does not reduce stillbirths [Grant reference].</li></ul><p><strong>Kick Count Instructions</strong></p><ul><li>Pick the time of the day that your baby is most active.</li><li>If you have not eaten much today, eating a snack or drinking some juice can make the baby more active.</li><li>Sit back in a comfortable chair or lie down on your left side in bed. Do this in a quiet room (no TV, cell phone, computer, or children).</li><li>Count any baby movement (kicks, rolls, flutters). Count up to 10.</li><li><strong>Normal Kick Count:</strong> 5 or more in one hour or 10 or more in 2 hours.</li><li><strong>Low Kick Count:</strong> Less than 5 in one hour or less than 10 in 2 hours.</li></ul><p><strong>Increased Fetal Movement</strong></p><p>Sometimes women will report that the baby is moving more or is &quot;extra wiggly&quot;. Most often increased fetal activity is a positive sign of fetal well-being.</p><ul><li>Many women report that their babies are most active at night.</li><li>Others note that the baby's movements increase after meals or in response to a stressful situation.</li><li>Babies have regular periods during a day when their movements increase.</li><li>Too much caffeine or sugar can possibly cause a baby to move more.</li></ul><p>Rarely, increased fetal movement can be a sign of fetal distress (hypoxia). Typically, in such a circumstance, the increased movement is followed by decreased fetal movement (e.g., a low kick count). For an anxious mother, the simplest and safest thing to do is to refer her in to L&amp;D for fetal monitoring or arrange a call with her PCP.</p><p><strong>Calculating the Estimated Date of Delivery (EDD)</strong></p><ul><li>EDB (estimated date of birth) and EDC (estimated date of confinement) mean the same thing as EDD.</li><li>LNMP is the last normal menstrual period.</li><li><em>Nagele's rule:</em> EDD = (LNMP - 3 months) + 7 days.</li></ul><p><strong>Calculating the Estimated Gestational Age (EGA)</strong></p><ul><li>Gestational age is the number of weeks since the LNMP.</li><li>A normal full-term pregnancy lasts 37-42 weeks.</li><li><strong>Wheel</strong>: Generally, the wheel is the best method for the triager to calculate the gestational age. The patient must be able to give you a relatively accurate LNMP. A <a href=""http://www.medcalc.com/pregwheel.html"">wheel</a> and a <a href=""http://www.medcalc.com/pregnancy.html"">calculator</a> are available on the internet at <a href=""http://www.medcalc.com/"">www.medcalc.com</a>.</li><li><strong>Ultrasound</strong>: An ultrasound during early pregnancy can be very accurate in setting the EDD, if patient has had one performed and can remember the results.</li><li><strong>Fundal height</strong>: The top of the uterus can be palpated at the level of the navel at 20 weeks of gestational age.</li><li><strong>Fetal Heart Tones</strong>: Can be first heard with a doppler stethoscope at 10-12 weeks gestational age.</li></ul><p><strong>Expert Reviewers</strong></p><ul><li>Marie Cabiya, MD, Medical Director for Obstetrics and Gynecology Resident Clinic; Advocate Illinois Masonic Medical Center Chicago, IL</li><li>Patrick Popiel, MD, Advanced Urogynecology &amp; Female Pelvic Reconstructive Surgery | Departments of OB/GYN and Urology New York Medical College</li><li>Jeremy Waldhart, DO, Assistant Professor of Family Medicine Ascension Columbia St. Mary's Family Medicine Residency Medical College of Wisconsin Department of Family and Community Medicine, Wisconsin</li><li>The Author and Editorial Team are extremely grateful for this subject matter expertise and critical review.</li></ul>","2021-12-04 07:32:26","N/A","<p>N/A</p>","2007-12-10 08:34:45","2021-07-30 10:22:50","2016-06-05 11:46:41","2021-07-06 14:05:54","2021-06-25 14:53:25","False","Adult","Adult After-Hours Version","Symptom","Genitourinary","Genital or Urinary Symptoms","2022","Active","2","F","Adult","12","60","144","720","True","False","False","False","False","False","False"
