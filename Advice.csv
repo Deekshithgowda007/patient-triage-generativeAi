@@ -1,0 +1,465 @@
+"AdviceID","AlgorithmID","DateCreated","LastUpDate","LastUpDate_XHTML","Advice","Advice_XHTML","PatientHealthInfo","AdviceSnap","AlgorithmOrder"
+"385","12","2000-05-05 17:27:51","2021-07-30 00:00:00","2012-07-20 04:31:27","REASSURANCE AND EDUCATION - STOMACH PAIN:
+* It doesn't sound like a serious stomachache. 
+* A mild stomachache can be from indigestion, stomach irritation, or overeating. 
+* Sometimes a stomachache signals the onset of a vomiting illness from a virus.
+* Here is some care advice that should help.","<strong>Reassurance and Education - Stomach Pain:</strong><ul><li>It doesn't sound like a serious stomachache. </li><li>A mild stomachache can be from indigestion, stomach irritation, or overeating. </li><li>Sometimes a stomachache signals the onset of a vomiting illness from a virus.</li><li><em>Here is some care advice that should help.</em></li></ul>","True","REASSURANCE AND EDUCATION - ST","1064"
+"386","12","2000-05-05 17:27:52","2020-05-21 00:00:00","2012-07-21 01:14:09","REST:
+* Lie down.
+* Rest until you feel better.","<strong>Rest:</strong><ul><li>Lie down.</li><li>Rest until you feel better.</li></ul>","True","REST:
+* Lie down.
+* Rest unt","2"
+"387","12","2000-05-05 17:28:00","2020-12-30 00:00:00","2012-07-13 01:53:38","DRINK CLEAR FLUIDS: 
+* Drink clear fluids only (e.g., water, flat soft drinks or half-strength Gatorade).
+* Sip small amounts at a time, until you feel better and the pain is gone.
+* Then slowly return to a regular diet.","<strong>Drink Clear Fluids:</strong> <ul><li>Drink clear fluids only (e.g., water, flat soft drinks or half-strength Gatorade).</li><li>Sip small amounts at a time, until you feel better and the pain is gone.</li><li>Then slowly return to a regular diet.</li></ul>","True","DRINK CLEAR FLUIDS: 
+* Drink ","1066"
+"389","12","2000-05-05 17:28:34","2020-12-30 00:00:00","2012-07-19 00:58:02","PASS A STOOL:
+* Sit on the toilet and try to pass a stool (have a bowel movement).
+* This may relieve pain if it is due to constipation, gas, or impending diarrhea.","<strong>Pass a Stool:</strong><ul><li>Sit on the toilet and try to pass a stool (have a bowel movement).</li><li>This may relieve pain if it is due to constipation, gas, or impending diarrhea.</li></ul>","True","PASS A STOOL:
+* Sit on the to","1063"
+"390","12","2000-05-05 17:29:37","2021-10-27 00:00:00","2012-06-30 04:53:08","AVOID ASPIRIN AND NSAIDS:
+* Avoid taking aspirin and anti-inflammatory medicines (i.e., NSAIDS like ibuprofen/Motrin, naproxen/Aleve) unless you have been told to do so by a doctor (or NP/PA).
+* These drugs can irritate the stomach lining and make the pain worse.
+* Acetaminophen (e.g., Tylenol) does not cause stomach irritation.","<strong>Avoid Aspirin and NSAIDs:</strong><ul><li>Avoid taking aspirin and anti-inflammatory medicines (i.e., NSAIDS like ibuprofen/Motrin, naproxen/Aleve) unless you have been told to do so by a doctor (or NP/PA).</li><li>These drugs can irritate the stomach lining and make the pain worse.</li><li>Acetaminophen (e.g., Tylenol) does not cause stomach irritation.</li></ul>","True","AVOID ASPIRIN AND NSAIDS:
+* A","1067"
+"391","12","2000-05-05 17:29:46","2021-06-21 00:00:00","2012-07-12 03:20:18","EXPECTED COURSE - ABDOMINAL PAIN:
+* With harmless causes, the pain is usually better or goes away within 2 hours.
+* With viral gastroenteritis ('stomach flu'), belly cramps may occur before each bout of vomiting or diarrhea and may last 2 to 3 days.
+* With serious causes (such as appendicitis) the pain becomes constant and more severe.","<strong>Expected Course - Abdominal Pain:</strong><ul><li>With harmless causes, the pain is usually better or goes away within 2 hours.</li><li>With viral gastroenteritis (&quot;stomach flu&quot;), belly cramps may occur before each bout of vomiting or diarrhea and may last 2 to 3 days.</li><li>With serious causes (such as appendicitis) the pain becomes constant and more severe.</li></ul>","True","EXPECTED COURSE - ABDOMINAL PA","1060"
+"392","12","2000-05-05 17:30:06","2021-07-30 00:00:00","2012-07-05 00:49:49","CALL BACK IF:
+* Severe pain lasts over 1 hour
+* Constant pain lasts over 2 hours
+* Intermittent pain (e.g., comes and goes, cramps) lasts over 48 hours
+* You become worse","<strong>Call Back If:</strong><ul><li>Severe pain lasts over 1 hour</li><li>Constant pain lasts over 2 hours</li><li>Intermittent pain (e.g., comes and goes, cramps) lasts over 48 hours</li><li>You become worse</li></ul>","True","CALL BACK IF:
+* Severe pain l","8"
+"393","12","2000-05-05 17:30:20","2001-02-21 21:29:22","2012-07-07 03:51:46","CARE ADVICE given per Abdominal Pain, Male (Adult) guideline.","<strong>Care Advice </strong>given per Abdominal Pain, Male (Adult) guideline.","False","CARE ADVICE given per Abdomina","1"
+"394","12","2000-05-05 17:30:38","2020-05-21 00:00:00","2012-07-21 01:14:15","REST:
+* Lie down.
+* Rest until seen.","<strong>Rest:</strong><ul><li>Lie down.</li><li>Rest until seen.</li></ul>","True","REST:
+* Lie down.
+* Rest unt","10"
+"395","12","2000-05-05 17:30:52","2021-03-17 00:00:00","2012-07-18 03:21:23","NOTHING BY MOUTH:
+* Do not eat or drink anything for now.
+* Reason: condition may need surgery and general anesthesia.","<strong>Nothing by Mouth:</strong><ul><li>Do not eat or drink anything for now.</li><li><em>Reason:</em> condition may need surgery and general anesthesia.</li></ul>","False","NOTHING BY MOUTH:
+* Do not ea","83"
+"396","12","2000-05-05 17:31:07","2020-12-30 00:00:00","2012-07-21 01:53:46","BRING A SAMPLE:
+* Bring in a sample of anything that looks like blood.
+* Use a plastic bag or container.
+* Reason: the doctor may want to test it.","<strong>Bring a Sample:</strong><ul><li>Bring in a sample of anything that looks like blood.</li><li>Use a plastic bag or container.</li><li><em>Reason:</em> the doctor may want to test it.</li></ul>","True","BRING A SAMPLE:
+* Bring in a ","1069"
+"398","12","2000-05-05 17:31:26","2021-07-30 00:00:00","2012-07-05 00:29:28","CALL BACK IF:
+* You become worse","<strong>Call Back If:</strong><ul><li>You become worse</li></ul>","True","CALL BACK IF:
+* You become wo","89"
+"399","12","2000-05-05 17:31:28","2020-05-21 00:00:00","2012-07-11 03:07:10","CRAMPS:
+* Your cramps may be due to an intestinal virus or from something that you ate.
+* During cramps, drink some water, then lie down and try to find a comfortable position.","<strong>Cramps:</strong><ul><li>Your cramps may be due to an intestinal virus or from something that you ate.</li><li>During cramps, drink some water, then lie down and try to find a comfortable position.</li></ul>","True","CRAMPS:
+* Your cramps may be ","12"
+"400","12","2000-05-05 17:32:18","2020-05-21 00:00:00","2012-07-11 03:42:04","DIET:
+* Drink adequate fluids. Eat a bland diet.
+* Avoid alcohol or caffeinated beverages.
+* Avoid greasy or fatty foods.","<strong>Diet:</strong><ul><li>Drink adequate fluids. Eat a bland diet.</li><li>Avoid alcohol or caffeinated beverages.</li><li>Avoid greasy or fatty foods.</li></ul>","True","DIET:
+* Drink adequate fluids","13"
+"401","12","2000-05-05 17:32:26","2021-07-30 00:00:00","2012-08-27 10:21:52","REASSURANCE AND EDUCATION - GET A MEDICAL CHECKUP:
+* It doesn't sound like a serious stomachache.
+* But, recurrent abdominal pains deserve a complete medical checkup.","<strong>Reassurance and Education - Get a Medical Checkup:</strong><ul><li>It doesn't sound like a serious stomachache.</li><li>But, recurrent abdominal pains deserve a complete medical checkup.</li></ul>","True","REASSURANCE AND EDUCATION - GE","15"
+"405","12","2000-05-05 20:47:08","2020-10-03 00:00:00","2012-07-11 23:50:55","ANOTHER ADULT SHOULD DRIVE:
+* It is better and safer if another adult drives instead of you.","<strong>Another Adult Should Drive:</strong><ul><li>It is better and safer if another adult drives instead of you.</li></ul>","True","ANOTHER ADULT SHOULD DRIVE:
+*","80"
+"406","12","2000-05-05 20:47:11","2021-07-17 00:00:00","2012-07-03 02:34:06","BRING MEDICINES:
+* Bring a list of your current medicines when you go to the Emergency Department (ER).
+* Bring the pill bottles too. This will help the doctor (or NP/PA) to make certain you are taking the right medicines and the right dose.","<strong>Bring Medicines:</strong><ul><li>Bring a list of your current medicines when you go to the Emergency Department (ER).</li><li>Bring the pill bottles too. This will help the doctor (or NP/PA) to make certain you are taking the right medicines and the right dose.</li></ul>","True","BRING MEDICINES:
+* Bring a li","81"
+"408","12","2000-05-05 20:47:11","2020-10-03 00:00:00","2012-06-23 03:20:39","NOTE TO TRIAGER - AMBULANCE TRANSPORT FOR BEDRIDDEN PATIENT:
+* Because of bedridden state, it is likely that the patient will need to be transported via ambulance and examined at the emergency department.
+* Caregivers can arrange ambulance transport via private ambulance company or via EMS 911.","<strong>Note to Triager - Ambulance Transport for Bedridden Patient:</strong><ul><li>Because of bedridden state, it is likely that the patient will need to be transported via ambulance and examined at the emergency department.</li><li>Caregivers can arrange ambulance transport via private ambulance company or via EMS 911.</li></ul>","False","NOTE TO TRIAGER - AMBULANCE TR","82"
+"1559","12","2000-07-27 21:04:51","2021-09-15 00:00:00","2012-07-11 00:18:38","BRING A BUCKET IN CASE OF VOMITING: 
+* You may wish to bring a bucket, pan, or plastic bag with you in case there is more vomiting during the drive.","<strong>Bring a Bucket in Case of Vomiting:</strong> <ul><li>You may wish to bring a bucket, pan, or plastic bag with you in case there is more vomiting during the drive.</li></ul>","True","BRING A BUCKET IN CASE OF VOMI","1245"
+"1560","12","2000-07-27 21:04:54","2021-04-13 00:00:00","2012-07-06 00:04:06","CALL EMS 911 NOW:
+* Immediate medical attention is needed. You need to hang up and call 911 (or an ambulance).
+* Triager Discretion: I'll call you back in a few minutes to be sure you were able to reach them.","<strong>Call EMS 911 Now:</strong><ul><li>Immediate medical attention is needed. You need to hang up and call 911 (or an ambulance).</li><li><em>Triager Discretion:</em> I'll call you back in a few minutes to be sure you were able to reach them.</li></ul>","False","CALL EMS 911 NOW:
+* Immediate","40"
+"1561","12","2000-07-27 21:04:54","2021-04-13 00:00:00","2012-07-13 04:41:21","GO TO ED NOW:
+* You need to be seen in the Emergency Department.
+* Go to the ED at ___________ Hospital.
+* Leave now. Drive carefully.","<strong>Go to ED Now:</strong><ul><li>You need to be seen in the Emergency Department.</li><li>Go to the ED at ___________ Hospital.</li><li>Leave now. Drive carefully.</li></ul>","False","GO TO ED NOW:
+* You need to b","41"
+"1562","12","2000-07-27 21:04:54","2021-04-13 00:00:00","2012-07-13 04:10:08","GO TO ED NOW (OR PCP TRIAGE):
+* IF NO PCP (PRIMARY CARE PROVIDER) SECOND-LEVEL TRIAGE: You need to be seen within the next hour. Go to the ED/UCC at _____________ Hospital. Leave as soon as you can.
+* IF PCP SECOND-LEVEL TRIAGE REQUIRED: You may need to be seen. Your doctor (or NP/PA) will want to talk with you to decide what's best. I'll page the provider on-call now. If you haven't heard from the provider (or me) within 30 minutes, go directly to the ED/UCC at _____________ Hospital.","<strong>Go to ED Now (or PCP Triage):</strong><ul><li><strong>If No</strong> <strong>PCP (Primary Care Provider) Second-Level Triage:</strong> You need to be seen within the next hour. Go to the ED/UCC at _____________ Hospital. Leave as soon as you can.</li><li><strong>If</strong> <strong>PCP Second-Level Triage Required:</strong> You may need to be seen. Your doctor (or NP/PA) will want to talk with you to decide what's best. I'll page the provider on-call now. If you haven't heard from the provider (or me) within 30 minutes, go directly to the ED/UCC at _____________ Hospital.</li></ul>","False","GO TO ED NOW (OR PCP TRIAGE):","42"
+"1563","12","2000-07-27 21:04:54","2021-10-14 16:01:37","2016-03-07 18:49:36","SEE HCP (OR PCP TRIAGE) WITHIN 4 HOURS:
+* IF OFFICE WILL BE OPEN: You need to be seen within the next 3 or 4 hours. Call your doctor (or NP/PA) now or as soon as the office opens.
+* IF OFFICE WILL BE CLOSED AND NO PCP (PRIMARY CARE PROVIDER) SECOND-LEVEL TRIAGE: You need to be seen within the next 3 or 4 hours. A nearby Urgent Care Center (UCC) is often a good source of care. Another choice is to go to the ED. Go sooner if you become worse.
+* IF OFFICE WILL BE CLOSED AND PCP SECOND-LEVEL TRIAGE REQUIRED: You may need to be seen. Your doctor (or NP/PA) will want to talk with you to decide what's best. I'll page the on-call provider now. If you haven't heard from the provider (or me) within 30 minutes, call again. NOTE: If on-call provider can't be reached, send to UCC or ED.
+NOTE TO TRIAGER:
+* Use nurse judgment to select the most appropriate source of care.
+* Consider both the urgency of the patient's symptoms AND what resources may be needed to evaluate and manage the patient.
+SOURCES OF CARE:
+* ED: Patients who may need surgery or hospital admission need to be sent to an ED. So do most patients with serious symptoms or complex medical problems.
+* UCC: Some UCCs can manage patients who are stable and have less serious symptoms (e.g., minor illnesses and injuries). The triager must know the UCC capabilities before sending a patient there. If unsure, call ahead.
+* OFFICE: If patient sounds stable and not seriously ill, consult PCP (or follow your office policy) to see if patient can be seen NOW in office.","<strong>See HCP (or PCP Triage) Within 4 Hours:</strong><ul><li><strong>If Office Will Be Open:</strong> You need to be seen within the next 3 or 4 hours. Call your doctor (or NP/PA) now or as soon as the office opens.</li><li><strong>If Office Will Be Closed and No PCP (Primary Care Provider) Second-Level Triage:</strong> You need to be seen within the next 3 or 4 hours. A nearby Urgent Care Center (UCC) is often a good source of care. Another choice is to go to the ED. Go sooner if you become worse.</li><li><strong>If Office Will Be Closed and PCP Second-Level Triage Required:</strong> You may need to be seen. Your doctor (or NP/PA) will want to talk with you to decide what's best. I'll page the on-call provider now. If you haven't heard from the provider (or me) within 30 minutes, call again. <strong>Note:</strong> If on-call provider can't be reached, send to UCC or ED.</li></ul><strong>Note to Triager:</strong><ul><li>Use nurse judgment to select the most appropriate source of care.</li><li>Consider both the urgency of the patient's symptoms AND what resources may be needed to evaluate and manage the patient.</li></ul><strong>Sources of Care:</strong><ul><li><strong>ED:</strong> Patients who may need surgery or hospital admission need to be sent to an ED. So do most patients with serious symptoms or complex medical problems.</li><li><strong>UCC:</strong> Some UCCs can manage patients who are stable and have less serious symptoms (e.g., minor illnesses and injuries). The triager must know the UCC capabilities before sending a patient there. If unsure, call ahead.</li><li><strong>OFFICE:</strong> If patient sounds stable and not seriously ill, consult PCP (or follow your office policy) to see if patient can be seen NOW in office.</li></ul>","False","SEE HCP (OR PCP TRIAGE) WITHIN","43"
+"1564","12","2000-07-27 21:04:54","2022-02-12 13:56:40","2016-03-07 18:51:12","SEE PCP WITHIN 24 HOURS: 
+* IF OFFICE WILL BE OPEN: You need to be examined within the next 24 hours. Call your doctor (or NP/PA) when the office opens and make an appointment.
+* IF OFFICE WILL BE CLOSED: You need to be seen within the next 24 hours. A clinic or an urgent care center is often a good source of care if your doctor's office is closed or you can't get an appointment.
+* IF PATIENT HAS NO PCP: Refer patient to a clinic or urgent care center. Also try to help caller find a PCP for future care.
+NOTE TO TRIAGER:
+* Use nurse judgment to select the most appropriate source of care.
+* Consider both the urgency of the patient's symptoms AND what resources may be needed to evaluate and manage the patient.","<strong>See PCP Within 24 Hours:</strong> <ul><li><strong>If Office Will Be Open:</strong> You need to be examined within the next 24 hours. Call your doctor (or NP/PA) when the office opens and make an appointment.</li><li><strong>If Office Will Be Closed:</strong> You need to be seen within the next 24 hours. A clinic or an urgent care center is often a good source of care if your doctor's office is closed or you can't get an appointment.</li><li><strong>If Patient Has No PCP:</strong> Refer patient to a clinic or urgent care center. Also try to help caller find a PCP for future care.</li></ul><strong>Note to Triager:</strong><ul><li>Use nurse judgment to select the most appropriate source of care.</li><li>Consider both the urgency of the patient's symptoms AND what resources may be needed to evaluate and manage the patient.</li></ul>","False","SEE PCP WITHIN 24 HOURS: 
+* I","44"
+"1565","12","2000-07-27 21:04:54","2021-04-13 00:00:00","2016-03-07 18:51:43","SEE PCP WITHIN 3 DAYS:
+* You need to be seen within 2 or 3 days.
+* PCP VISIT: Call your doctor (or NP/PA) during regular office hours and make an appointment. A clinic or urgent care center are good places to go for care if your doctor's office is closed or you can't get an appointment. NOTE: If office will be open tomorrow, tell caller to call then, not in 3 days.
+* IF PATIENT HAS NO PCP: A clinic or urgent care center are good places to go for care if you do not have a primary care provider. NOTE: Try to help caller find a PCP for future care (e.g., use a physician referral line). Having a PCP or 'medical home' means better long-term care.","<strong>See PCP Within 3 Days:</strong><ul><li>You need to be seen within 2 or 3 days.</li><li><strong>PCP Visit:</strong> Call your doctor (or NP/PA) during regular office hours and make an appointment. A clinic or urgent care center are good places to go for care if your doctor's office is closed or you can't get an appointment. <strong>Note:</strong> If office will be open tomorrow, tell caller to call then, not in 3 days.</li><li><strong>If Patient Has No PCP:</strong> A clinic or urgent care center are good places to go for care if you do not have a primary care provider. <strong>Note:</strong> Try to help caller find a PCP for future care (e.g., use a physician referral line). Having a PCP or &quot;medical home&quot; means better long-term care.</li></ul>","False","SEE PCP WITHIN 3 DAYS:
+* You ","45"
+"1566","12","2000-07-27 21:04:54","2022-02-12 13:57:23","2012-07-21 03:35:46","SEE PCP WITHIN 2 WEEKS:
+* You need to be seen for this ongoing problem within the next 2 weeks.
+* PCP VISIT: Call your doctor (or NP/PA) during regular office hours and make an appointment.
+* IF PATIENT HAS NO PCP: A primary care clinic is where you need to be seen for chronic health problems. NOTE: Try to help caller find a PCP (e.g., use a physician referral line). Having a PCP or 'medical home' means better long-term care.","<strong>See PCP Within 2 Weeks:</strong><ul><li>You need to be seen for this ongoing problem within the next 2 weeks. </li><li><strong>PCP Visit:</strong> Call your doctor (or NP/PA) during regular office hours and make an appointment.</li><li><strong>If Patient Has No PCP:</strong> A primary care clinic is where you need to be seen for chronic health problems. <strong>Note:</strong> Try to help caller find a PCP (e.g., use a physician referral line). Having a PCP or &quot;medical home&quot; means better long-term care.</li></ul>","False","SEE PCP WITHIN 2 WEEKS:
+* You","46"
+"1567","12","2000-07-27 21:04:54","2021-04-13 00:00:00","2012-07-13 23:37:43","HOME CARE: 
+* You should be able to treat this at home.","<strong>Home Care:</strong> <ul><li>You should be able to treat this at home.</li></ul>","False","HOME CARE: 
+* You should be a","48"
+"1568","12","2000-07-27 21:04:54","2011-12-23 09:16:34","2012-07-12 04:02:07","FEVER MEDICINE - ACETAMINOPHEN:
+* Fever above 101° F (38.3° C) should be treated with acetaminophen (e.g., Tylenol). This can be taken by mouth as pills or per rectum using a suppository. Both are available over the counter. Usual adult dose is 650 mg by mouth or per rectum every 6 hours.
+* The goal of fever therapy is to bring the fever down to a comfortable level. Remember that fever medicine usually lowers fever 2-3° F (1-1.5° C).","<strong>Fever Medicine - Acetaminophen:</strong><ul><li>Fever above 101° F (38.3° C) should be treated with acetaminophen (e.g., Tylenol). This can be taken by mouth as pills or per rectum using a suppository. Both are available over the counter. Usual adult dose is 650 mg by mouth or per rectum every 6 hours.</li><li>The goal of fever therapy is to bring the fever down to a comfortable level. Remember that fever medicine usually lowers fever 2-3° F (1-1.5° C).</li></ul>","True","FEVER MEDICINE - ACETAMINOPHEN","76"
+"1573","12","2000-07-27 21:04:54","2020-12-30 00:00:00","2012-07-18 05:51:13","PAIN DIARY:
+* Keep a pain diary.
+* Write down the date, time, place, what you were doing at the time, how bad it is, how long it lasts, what makes it better, etc. 
+* Reason: to try to find the cause or some of the triggers.","<strong>Pain Diary:</strong><ul><li>Keep a pain diary.</li><li>Write down the date, time, place, what you were doing at the time, how bad it is, how long it lasts, what makes it better, etc. </li><li><em>Reason:</em> to try to find the cause or some of the triggers.</li></ul>","True","PAIN DIARY:
+* Keep a pain dia","1068"
+"1574","12","2000-07-27 21:27:47","2020-05-21 00:00:00","2012-07-18 03:17:15","NOTHING BY MOUTH:
+* Do not eat or drink anything for now.","<strong>Nothing by Mouth:</strong><ul><li>Do not eat or drink anything for now.</li></ul>","False","NOTHING BY MOUTH:
+* Do not ea","84"
+"1576","12","2000-07-27 21:40:29","2021-07-30 00:00:00","2012-07-05 00:50:12","CALL BACK IF:
+* Severe pain lasts over 1 hour
+* Constant pain lasts over 2 hours
+* You become worse","<strong>Call Back If:</strong><ul><li>Severe pain lasts over 1 hour</li><li>Constant pain lasts over 2 hours</li><li>You become worse</li></ul>","True","CALL BACK IF:
+* Severe pain l","9"
+"4319","133","2000-12-10 09:17:49","2021-04-13 00:00:00","2012-07-06 00:10:18","CALL EMS 911 NOW:
+* Immediate medical attention is needed. You need to hang up and call 911 (or an ambulance).
+* Triager Discretion: I'll call you back in a few minutes to be sure you were able to reach them.","<strong>Call EMS 911 Now:</strong><ul><li>Immediate medical attention is needed. You need to hang up and call 911 (or an ambulance).</li><li><em>Triager Discretion:</em> I'll call you back in a few minutes to be sure you were able to reach them.</li></ul>","False","CALL EMS 911 NOW:
+* Immediate","40"
+"4320","133","2000-12-10 09:17:58","2021-04-13 00:00:00","2012-07-13 04:43:56","GO TO ED NOW:
+* You need to be seen in the Emergency Department.
+* Go to the ED at ___________ Hospital.
+* Leave now. Drive carefully.","<strong>Go to ED Now:</strong><ul><li>You need to be seen in the Emergency Department.</li><li>Go to the ED at ___________ Hospital.</li><li>Leave now. Drive carefully.</li></ul>","False","GO TO ED NOW:
+* You need to b","41"
+"4321","133","2000-12-10 09:17:58","2021-04-13 00:00:00","2012-07-13 04:14:19","GO TO ED NOW (OR PCP TRIAGE):
+* IF NO PCP (PRIMARY CARE PROVIDER) SECOND-LEVEL TRIAGE: You need to be seen within the next hour. Go to the ED/UCC at _____________ Hospital. Leave as soon as you can.
+* IF PCP SECOND-LEVEL TRIAGE REQUIRED: You may need to be seen. Your doctor (or NP/PA) will want to talk with you to decide what's best. I'll page the provider on-call now. If you haven't heard from the provider (or me) within 30 minutes, go directly to the ED/UCC at _____________ Hospital.","<strong>Go to ED Now (or PCP Triage):</strong><ul><li><strong>If No</strong> <strong>PCP (Primary Care Provider) Second-Level Triage:</strong> You need to be seen within the next hour. Go to the ED/UCC at _____________ Hospital. Leave as soon as you can.</li><li><strong>If</strong> <strong>PCP Second-Level Triage Required:</strong> You may need to be seen. Your doctor (or NP/PA) will want to talk with you to decide what's best. I'll page the provider on-call now. If you haven't heard from the provider (or me) within 30 minutes, go directly to the ED/UCC at _____________ Hospital.</li></ul>","False","GO TO ED NOW (OR PCP TRIAGE):","42"
+"4322","133","2000-12-10 09:17:58","2021-06-21 00:00:00","2016-03-07 18:49:36","SEE HCP (OR PCP TRIAGE) WITHIN 4 HOURS:
+* IF OFFICE WILL BE OPEN: You need to be seen within the next 3 or 4 hours. Call your doctor (or NP/PA) now or as soon as the office opens.
+* IF OFFICE WILL BE CLOSED AND NO PCP (PRIMARY CARE PROVIDER) SECOND-LEVEL TRIAGE: You need to be seen within the next 3 or 4 hours. A nearby Urgent Care Center (UCC) is often a good source of care. Another choice is to go to the ED. Go sooner if you become worse.
+* IF OFFICE WILL BE CLOSED AND PCP SECOND-LEVEL TRIAGE REQUIRED: You may need to be seen. Your doctor (or NP/PA) will want to talk with you to decide what's best. I'll page the on-call provider now. If you haven't heard from the provider (or me) within 30 minutes, call again. NOTE: If on-call provider can't be reached, send to UCC or ED.
+NOTE TO TRIAGER:
+* Use nurse judgment to select the most appropriate source of care.
+* Consider both the urgency of the patient's symptoms AND what resources may be needed to evaluate and manage the patient.
+SOURCES OF CARE:
+* ED: Patients who may need surgery or hospital admission need to be sent to an ED. So do most patients with serious symptoms or complex medical problems.
+* UCC: Some UCCs can manage patients who are stable and have less serious symptoms (e.g., minor illnesses and injuries). The triager must know the UCC capabilities before sending a patient there. If unsure, call ahead.
+* OFFICE: If patient sounds stable and not seriously ill, consult PCP (or follow your office policy) to see if patient can be seen NOW in office.","<strong>See HCP (or PCP Triage) Within 4 Hours:</strong><ul><li><strong>If Office Will Be Open:</strong> You need to be seen within the next 3 or 4 hours. Call your doctor (or NP/PA) now or as soon as the office opens.</li><li><strong>If Office Will Be Closed and No PCP (Primary Care Provider) Second-Level Triage:</strong> You need to be seen within the next 3 or 4 hours. A nearby Urgent Care Center (UCC) is often a good source of care. Another choice is to go to the ED. Go sooner if you become worse.</li><li><strong>If Office Will Be Closed and PCP Second-Level Triage Required:</strong> You may need to be seen. Your doctor (or NP/PA) will want to talk with you to decide what's best. I'll page the on-call provider now. If you haven't heard from the provider (or me) within 30 minutes, call again. <strong>Note:</strong> If on-call provider can't be reached, send to UCC or ED.</li></ul><strong>Note to Triager:</strong><ul><li>Use nurse judgment to select the most appropriate source of care.</li><li>Consider both the urgency of the patient's symptoms AND what resources may be needed to evaluate and manage the patient.</li></ul><strong>Sources of Care:</strong><ul><li><strong>ED:</strong> Patients who may need surgery or hospital admission need to be sent to an ED. So do most patients with serious symptoms or complex medical problems.</li><li><strong>UCC:</strong> Some UCCs can manage patients who are stable and have less serious symptoms (e.g., minor illnesses and injuries). The triager must know the UCC capabilities before sending a patient there. If unsure, call ahead.</li><li><strong>OFFICE:</strong> If patient sounds stable and not seriously ill, consult PCP (or follow your office policy) to see if patient can be seen NOW in office.</li></ul>","False","SEE HCP (OR PCP TRIAGE) WITHIN","43"
+"4323","133","2000-12-10 09:17:58","2021-04-13 00:00:00","2016-03-07 18:51:12","SEE PCP WITHIN 24 HOURS: 
+* IF OFFICE WILL BE OPEN: You need to be examined within the next 24 hours. Call your doctor (or NP/PA) when the office opens and make an appointment.
+* IF OFFICE WILL BE CLOSED: You need to be seen within the next 24 hours. A clinic or an urgent care center is often a good source of care if your doctor's office is closed or you can't get an appointment.
+* IF PATIENT HAS NO PCP: Refer patient to a clinic or urgent care center. Also try to help caller find a PCP for future care.
+
+NOTE TO TRIAGER:
+* Use nurse judgment to select the most appropriate source of care.
+* Consider both the urgency of the patient's symptoms AND what resources may be needed to evaluate and manage the patient.","<strong>See PCP Within 24 Hours:</strong> <ul><li><strong>If Office Will Be Open:</strong> You need to be examined within the next 24 hours. Call your doctor (or NP/PA) when the office opens and make an appointment.</li><li><strong>If Office Will Be Closed:</strong> You need to be seen within the next 24 hours. A clinic or an urgent care center is often a good source of care if your doctor's office is closed or you can't get an appointment.</li><li><strong>If Patient Has No PCP:</strong> Refer patient to a clinic or urgent care center. Also try to help caller find a PCP for future care.</li></ul><strong>Note to Triager:</strong><ul><li>Use nurse judgment to select the most appropriate source of care.</li><li>Consider both the urgency of the patient's symptoms AND what resources may be needed to evaluate and manage the patient.</li></ul>","False","SEE PCP WITHIN 24 HOURS: 
+* I","44"
+"4324","133","2000-12-10 09:17:58","2021-04-13 00:00:00","2016-03-07 18:51:43","SEE PCP WITHIN 3 DAYS:
+* You need to be seen within 2 or 3 days.
+* PCP VISIT: Call your doctor (or NP/PA) during regular office hours and make an appointment. A clinic or urgent care center are good places to go for care if your doctor's office is closed or you can't get an appointment. NOTE: If office will be open tomorrow, tell caller to call then, not in 3 days.
+* IF PATIENT HAS NO PCP: A clinic or urgent care center are good places to go for care if you do not have a primary care provider. NOTE: Try to help caller find a PCP for future care (e.g., use a physician referral line). Having a PCP or 'medical home' means better long-term care.","<strong>See PCP Within 3 Days:</strong><ul><li>You need to be seen within 2 or 3 days.</li><li><strong>PCP Visit:</strong> Call your doctor (or NP/PA) during regular office hours and make an appointment. A clinic or urgent care center are good places to go for care if your doctor's office is closed or you can't get an appointment. <strong>Note:</strong> If office will be open tomorrow, tell caller to call then, not in 3 days.</li><li><strong>If Patient Has No PCP:</strong> A clinic or urgent care center are good places to go for care if you do not have a primary care provider. <strong>Note:</strong> Try to help caller find a PCP for future care (e.g., use a physician referral line). Having a PCP or &quot;medical home&quot; means better long-term care.</li></ul>","False","SEE PCP WITHIN 3 DAYS:
+* You ","45"
+"4325","133","2000-12-10 09:17:58","2021-04-13 00:00:00","2012-07-21 03:38:51","SEE PCP WITHIN 2 WEEKS:
+* You need to be seen for this ongoing problem within the next 2 weeks. 
+* PCP VISIT: Call your doctor (or NP/PA) during regular office hours and make an appointment.
+* IF PATIENT HAS NO PCP: A primary care clinic is where you need to be seen for chronic health problems. NOTE: Try to help caller find a PCP (e.g., use a physician referral line). Having a PCP or 'medical home' means better long-term care.","<strong>See PCP Within 2 Weeks:</strong><ul><li>You need to be seen for this ongoing problem within the next 2 weeks. </li><li><strong>PCP Visit:</strong> Call your doctor (or NP/PA) during regular office hours and make an appointment.</li><li><strong>If Patient Has No PCP:</strong> A primary care clinic is where you need to be seen for chronic health problems. <strong>Note:</strong> Try to help caller find a PCP (e.g., use a physician referral line). Having a PCP or &quot;medical home&quot; means better long-term care.</li></ul>","False","SEE PCP WITHIN 2 WEEKS:
+* You","46"
+"4326","133","2000-12-10 09:17:58","2021-04-13 00:00:00","2012-07-14 01:48:20","HOME CARE - INFORMATION OR ADVICE ONLY CALL.","<strong>Home Care - Information or Advice Only Call.</strong>","False","HOME CARE - INFORMATION OR ADV","47"
+"4327","133","2000-12-10 09:17:58","2021-04-13 00:00:00","2012-07-13 23:41:27","HOME CARE: 
+* You should be able to treat this at home.","<strong>Home Care:</strong> <ul><li>You should be able to treat this at home.</li></ul>","False","HOME CARE: 
+* You should be a","48"
+"4328","133","2000-12-10 09:17:58","2021-04-13 00:00:00","2012-07-06 00:58:25","CALL PCP NOW: 
+* You need to discuss this with your doctor (or NP/PA).
+* I'll page the on-call provider now. If you haven't heard from the provider (or me) within 30 minutes, call again.","<strong>Call PCP Now:</strong> <ul><li>You need to discuss this with your doctor (or NP/PA).</li><li>I'll page the on-call provider now. If you haven't heard from the provider (or me) within 30 minutes, call again.</li></ul>","False","CALL PCP NOW: 
+* You need to ","49"
+"4329","133","2000-12-10 09:17:58","2021-04-13 00:00:00","2012-07-06 02:20:07","CALL PCP WITHIN 24 HOURS: 
+* You need to discuss this with your doctor (or NP/PA) within the next 24 hours.
+* IF OFFICE WILL BE OPEN: Call the office when it opens tomorrow morning.
+* IF OFFICE WILL BE CLOSED: I'll page the on-call provider now. EXCEPTION: from 9 pm to 9 am. Since this isn't urgent, we'll hold the page until morning.","<strong>Call PCP Within 24 Hours:</strong> <ul><li>You need to discuss this with your doctor (or NP/PA) within the next 24 hours.</li><li><strong>If Office Will Be Open:</strong> Call the office when it opens tomorrow morning.</li><li><strong>If Office Will Be Closed:</strong> I'll page the on-call provider now. <strong>Exception:</strong> from 9 pm to 9 am. Since this isn't urgent, we'll hold the page until morning.</li></ul>","False","CALL PCP WITHIN 24 HOURS: 
+* ","50"
+"4330","133","2000-12-10 09:17:58","2021-04-13 00:00:00","2012-07-06 01:24:09","CALL PCP WHEN OFFICE IS OPEN: 
+* You need to discuss this with your doctor (or NP/PA) within the next few days.
+* Call the office when it is open.","<strong>Call PCP When Office Is Open:</strong> <ul><li>You need to discuss this with your doctor (or NP/PA) within the next few days. </li><li>Call the office when it is open.</li></ul>","False","CALL PCP WHEN OFFICE IS OPEN: ","51"
+"4331","133","2000-12-10 09:17:58","2021-06-23 00:00:00","2012-07-13 05:29:31","GO TO L&D NOW: 
+* You need to be seen.
+* Go to the Labor and Delivery Unit or the Emergency Department at __________ Hospital.
+* Leave now. Drive carefully.","<strong>Go to L&amp;D Now:</strong> <ul><li>You need to be seen. </li><li>Go to the Labor and Delivery Unit or the Emergency Department at __________ Hospital. </li><li>Leave now. Drive carefully.</li></ul>","False","GO TO L&D NOW: 
+* You need to","52"
+"4332","133","2000-12-10 09:17:58","2021-07-30 00:00:00","2012-07-05 05:26:34","CALL BACK IF:
+* You become worse","<strong>Call Back If:</strong><ul><li>You become worse</li></ul>","True","CALL BACK IF:
+* You become wo","89"
+"4333","133","2000-12-10 09:18:12","2021-07-30 00:00:00","2012-08-27 10:30:10","REASSURANCE AND EDUCATION - DIRECT BLOW (CONTUSION, BRUISE):
+* A direct blow to your ankle or foot can cause a contusion. Contusion is the medical term for bruise.
+* Symptoms are mild pain, swelling, and/or bruising.
+* Here is some care advice that should help.","<strong>Reassurance and Education - Direct Blow (Contusion, Bruise):</strong><ul><li>A direct blow to your ankle or foot can cause a contusion. Contusion is the medical term for bruise.</li><li>Symptoms are mild pain, swelling, and/or bruising.</li><li><em>Here is some care advice that should help.</em></li></ul>","True","REASSURANCE AND EDUCATION - DI","3"
+"4334","133","2000-12-10 09:18:14","2020-08-20 15:14:05","2012-07-17 01:24:36","APPLY A COLD PACK:
+* Apply a cold pack or an ice bag (wrapped in a moist towel) to the area for 20 minutes. Repeat in 1 hour, then every 4 hours while awake.
+* Continue this for the first 48 hours after an injury.
+* This will help decrease pain and swelling.","<strong>Apply a Cold Pack:</strong><ul><li>Apply a cold pack or an ice bag (wrapped in a moist towel) to the area for 20 minutes. Repeat in 1 hour, then every 4 hours while awake.</li><li>Continue this for the first 48 hours after an injury.</li><li>This will help decrease pain and swelling.</li></ul>","True","APPLY A COLD PACK:
+* Apply a ","2"
+"4337","133","2000-12-10 09:18:14","2020-05-21 00:00:00","2012-07-12 03:16:57","EXPECTED COURSE:
+* Pain and swelling usually peak on day 2 or 3. 
+* Swelling is usually gone by 7 days. 
+* Pain may take 2 weeks to completely resolve.","<strong>Expected Course:</strong><ul><li>Pain and swelling usually peak on day 2 or 3. </li><li>Swelling is usually gone by 7 days. </li><li>Pain may take 2 weeks to completely resolve.</li></ul>","True","EXPECTED COURSE:
+* Pain and s","4"
+"4338","133","2000-12-10 09:18:14","2021-07-30 00:00:00","2012-07-05 00:52:01","CALL BACK IF:
+* Severe pain persists over 2 hours after pain medicine and ice
+* Swelling or bruise becomes over 2 inches (5 cm).
+* Pain not improved after 3 days
+* Pain or swelling lasts over 2 weeks
+* You become worse","<strong>Call Back If:</strong><ul><li>Severe pain persists over 2 hours after pain medicine and ice</li><li>Swelling or bruise becomes over 2 inches (5 cm).</li><li>Pain not improved after 3 days</li><li>Pain or swelling lasts over 2 weeks</li><li>You become worse</li></ul>","True","CALL BACK IF:
+* Severe pain p","5"
+"4339","133","2000-12-10 09:18:14","2013-07-03 00:00:00","2013-07-03 00:00:00","CARE ADVICE given per Foot and Ankle Injury (Adult) guideline.","<strong>Care Advice </strong>given per Foot and Ankle Injury (Adult) guideline.","False","CARE ADVICE given per Foot and","1"
+"4340","133","2000-12-10 09:18:14","2021-07-30 00:00:00","2012-07-20 23:29:20","REASSURANCE AND EDUCATION - BENDING OR TWISTING INJURY (STRAIN, SPRAIN):
+* Strain and sprain are the medical terms used to describe over-stretching of the muscles and ligaments of the ankle or foot. A twisting or bending injury can cause a strain or sprain.
+* The main symptom is pain that is worse with movement and walking. Swelling can occur. Rarely there may be slight bruising.
+* Here is some care advice that should help.","<strong>Reassurance and Education - Bending or Twisting Injury (Strain, Sprain):</strong><ul><li>Strain and sprain are the medical terms used to describe over-stretching of the muscles and ligaments of the ankle or foot. A twisting or bending injury can cause a strain or sprain.</li><li>The main symptom is pain that is worse with movement and walking. Swelling can occur. Rarely there may be slight bruising.</li><li><em>Here is some care advice that should help.</em></li></ul>","True","REASSURANCE AND EDUCATION - BE","6"
+"4341","133","2000-12-10 09:18:14","2015-09-16 13:27:12","2012-08-27 11:17:23","TREATMENT OF MILD CONTUSIONS (e.g., Direct Blow to Ankle or Foot):
+* Use R.I.C.E. (rest, ice, compression, and elevation) for the first 24 to 48 hours. 
+* Continue to apply crushed ICE in a plastic bag for 10-20 minutes every hour for the first 4 hours. Then apply ice for 10-20 minutes 4 times a day for the first two days.
+* Apply COMPRESSION with a snug, elastic bandage for 48 hours. Numbness, tingling, or increased pain means the bandage is too tight.
+* Keep injured ankle or foot ELEVATED and at rest for 24 hours.
+* After 24 hours of REST, allow any activity that doesn't cause pain.","<strong>Treatment of Mild Contusion<strong>s</strong> (e.g., Direct Blow to Ankle or Foot):</strong><ul><li>Use R.I.C.E. (rest, ice, compression, and elevation) for the first 24 to 48 hours. </li><li>Continue to apply crushed <strong>Ice</strong> in a plastic bag for 10-20 minutes every hour for the first 4 hours. Then apply ice for 10-20 minutes 4 times a day for the first two days.</li><li>Apply <strong>Compression</strong> with a snug, elastic bandage for 48 hours. Numbness, tingling, or increased pain means the bandage is too tight.</li><li>Keep injured ankle or foot <strong>Elevated</strong> and at rest for 24 hours.</li><li>After 24 hours of <strong>Rest</strong>, allow any activity that doesn't cause pain.</li></ul>","True","TREATMENT OF MILD CONTUSIONS (","7"
+"4342","133","2000-12-10 09:18:14","2015-09-16 13:27:24","2012-08-27 11:44:55","TREATMENT OF MILD SPRAINS (E.G., MILD SPRAINED ANKLE):
+* Use R.I.C.E. (rest, ice, compression, and elevation) for the first 24 to 48 hours. 
+* Continue to apply crushed ICE in a plastic bag for 10-20 minutes every hour for the first 4 hours. Then apply ice for 10-20 minutes 4 times a day for the first two days.
+* Apply COMPRESSION with a snug, elastic bandage for 48 hours. Numbness, tingling, or increased pain means the bandage is too tight.
+* Keep injured ankle or foot ELEVATED and at rest for 24 hours.
+* After 24 hours of REST, allow any activity that doesn't cause pain.","<strong>Treatment of Mild Sprains (e.g., Mild Sprained Ankle):</strong><ul><li>Use R.I.C.E. (rest, ice, compression, and elevation) for the first 24 to 48 hours. </li><li>Continue to apply crushed <strong>Ice</strong> in a plastic bag for 10-20 minutes every hour for the first 4 hours. Then apply ice for 10-20 minutes 4 times a day for the first two days.</li><li>Apply <strong>Compression</strong> with a snug, elastic bandage for 48 hours. Numbness, tingling, or increased pain means the bandage is too tight.</li><li>Keep injured ankle or foot <strong>Elevated</strong> and at rest for 24 hours.</li><li>After 24 hours of <strong>Rest</strong>, allow any activity that doesn't cause pain.</li></ul>","True","TREATMENT OF MILD SPRAINS (E.G","8"
+"4353","133","2000-12-10 09:18:14","2020-05-21 00:00:00","2012-07-17 05:54:40","NO STANDING:
+* Try not to put any weight on the injured leg.","<strong>No Standing:</strong><ul><li>Try not to put any weight on the injured leg.</li></ul>","True","NO STANDING:
+* Try not to put","23"
+"4354","133","2000-12-10 09:18:14","2020-05-21 00:00:00","2012-07-17 01:23:51","LOCAL COLD:
+* Apply cold pack or an ice bag (wrapped in a moist towel).
+* Do this for 20 minutes out of every hour until seen.","<strong>Local Cold:</strong><ul><li>Apply cold pack or an ice bag (wrapped in a moist towel).</li><li>Do this for 20 minutes out of every hour until seen.</li></ul>","True","LOCAL COLD:
+* Apply cold pack","11"
+"4357","133","2000-12-10 09:18:14","2021-07-30 00:00:00","2012-07-05 00:29:37","CALL BACK IF:
+* Severe pain persists longer than 2 hours after pain medicine and ice
+* You become worse","<strong>Call Back If:</strong><ul><li>Severe pain persists longer than 2 hours after pain medicine and ice</li><li>You become worse</li></ul>","True","CALL BACK IF:
+* Severe pain p","12"
+"4371","133","2000-12-10 09:19:04","2020-11-14 00:00:00","2012-07-18 06:20:54","PAIN MEDICINES:
+* For pain relief, you can take either acetaminophen, ibuprofen, or naproxen.
+* They are over-the-counter (OTC) pain drugs. You can buy them at the drugstore.
+* ACETAMINOPHEN - REGULAR STRENGTH TYLENOL: Take 650 mg (two 325 mg pills) by mouth every 4 to 6 hours as needed. Each Regular Strength Tylenol pill has 325 mg of acetaminophen. The most you should take each day is 3,250 mg (10 pills a day).
+* ACETAMINOPHEN - EXTRA STRENGTH TYLENOL: Take 1,000 mg (two 500 mg pills) every 8 hours as needed. Each Extra Strength Tylenol pill has 500 mg of acetaminophen. The most you should take each day is 3,000 mg (6 pills a day).
+* IBUPROFEN (E.G., MOTRIN, ADVIL): Take 400 mg (two 200 mg pills) by mouth every 6 hours. The most you should take each day is 1,200 mg (six 200 mg pills), unless your doctor has told you to take more.
+* NAPROXEN (E.G., ALEVE): Take 220 mg (one 220 mg pill) by mouth every 8 to 12 hours as needed. You may take 440 mg (two 220 mg pills) for your first dose. The most you should take each day is 660 mg (three 220 mg pills a day), unless your doctor has told you to take more.","<strong>Pain Medicines:</strong><ul><li>For pain relief, you can take either acetaminophen, ibuprofen, or naproxen.</li><li>They are over-the-counter (OTC) pain drugs. You can buy them at the drugstore.</li><li><strong>Acetaminophen - Regular Strength Tylenol:</strong> Take 650 mg (two 325 mg pills) by mouth every 4 to 6 hours as needed. Each Regular Strength Tylenol pill has 325 mg of acetaminophen. The most you should take each day is 3,250 mg (10 pills a day).</li><li><strong>Acetaminophen - Extra Strength Tylenol:</strong> Take 1,000 mg (two 500 mg pills) every 8 hours as needed. Each Extra Strength Tylenol pill has 500 mg of acetaminophen. The most you should take each day is 3,000 mg (6 pills a day).</li><li><strong>Ibuprofen (e.g., Motrin, Advil):</strong> Take 400 mg (two 200 mg pills) by mouth every 6 hours. The most you should take each day is 1,200 mg (six 200 mg pills), unless your doctor has told you to take more.</li><li><strong>Naproxen (e.g., Aleve):</strong> Take 220 mg (one 220 mg pill) by mouth every 8 to 12 hours as needed. You may take 440 mg (two 220 mg pills) for your first dose. The most you should take each day is 660 mg (three 220 mg pills a day), unless your doctor has told you to take more.</li></ul>","True","PAIN MEDICINES:
+* For pain re","1001"
+"4372","133","2000-12-10 09:19:04","2015-04-26 00:00:00","2012-07-18 01:42:09","NOTE TO TRIAGER - DRIVING:
+* Another adult should drive.
+* If there are any problems with automobile transport (e.g., unable to get to the car), then ambulance transport may be necessary.
+* The patient, caregiver, or family members can arrange ambulance transport via private ambulance company or via EMS 911.","<strong>Note to Triager - Driving:</strong><ul><li>Another adult should drive.</li><li>If there are any problems with automobile transport (e.g., unable to get to the car), then ambulance transport may be necessary.</li><li>The patient, caregiver, or family members can arrange ambulance transport via private ambulance company or via EMS 911.</li></ul>","False","NOTE TO TRIAGER - DRIVING:
+* ","93"
+"4373","133","2000-12-10 09:19:04","2021-07-30 00:00:00","2012-07-20 23:27:41","REASSURANCE AND EDUCATION - SMALL CUT OR SCRAPE:
+* It sounds like a small cut or scrape that we can treat at home.
+* Here is some care advice that should help.","<strong>Reassurance and Education - Small Cut or Scrape:</strong><ul><li>It sounds like a small cut or scrape that we can treat at home.</li><li><em>Here is some care advice that should help.</em></li></ul>","True","REASSURANCE AND EDUCATION - SM","104"
+"4374","133","2000-12-10 09:19:04","2022-03-29 00:00:00","2012-07-11 03:15:03","CLEANING A CUT OR SCRAPE:
+* Wash the wound with soap and water.
+* For any dirt, scrub gently with a washcloth.
+* Bleeding: Put direct pressure on the wound for 10 minutes to stop any bleeding. Place a clean cloth or gauze pad over the wound. Press down firmly with your fingers over the bleeding area.","<strong>Cleaning a Cut or Scrape:</strong><ul><li>Wash the wound with soap and water.</li><li>For any dirt, scrub gently with a washcloth.</li><li><em>Bleeding:</em> Put direct pressure on the wound for 10 minutes to stop any bleeding. Place a clean cloth or gauze pad over the wound. Press down firmly with your fingers over the bleeding area.</li></ul>","True","CLEANING A CUT OR SCRAPE:
+* W","1272"
+"4376","133","2000-12-10 09:19:04","2021-07-30 00:00:00","2012-07-05 00:29:15","CALL BACK IF:
+* Dirt in the wound persists after scrubbing
+* Looks infected (pus, redness)
+* Doesn't heal within 10 days
+* You become worse","<strong>Call Back If:</strong><ul><li>Dirt in the wound persists after scrubbing</li><li>Looks infected (pus, redness)</li><li>Doesn't heal within 10 days</li><li>You become worse</li></ul>","True","CALL BACK IF:
+* Dirt in the w","107"
+"4377","133","2000-12-10 09:19:04","2021-08-19 00:00:00","2012-07-26 23:28:08","TETANUS SHOT: 
+* You should get a tetanus booster shot in the next 3 days.
+* Most doctor's offices give tetanus shots. You can also get a tetanus shot at retail clinics (drugstore clinics) and at urgent care centers.","<strong>Tetanus Shot:</strong> <ul><li>You should get a tetanus booster shot in the next 3 days.</li><li>Most doctor's offices give tetanus shots. You can also get a tetanus shot at retail clinics (drugstore clinics) and at urgent care centers.</li></ul>","True","TETANUS SHOT: 
+* You should g","108"
+"4378","133","2000-12-10 09:19:04","2021-07-31 00:00:00","2012-07-10 22:50:53","CLEAN THE WOUND:
+* Wash the wound with soap and water.
+* For any dirt, scrub gently with a washcloth.
+* Bleeding: Put direct pressure on the wound for 10 minutes to stop any bleeding. Place a clean cloth or gauze pad over the wound. Press down firmly with your fingers over the bleeding area.","<strong>Clean the Wound:</strong><ul><li>Wash the wound with soap and water.</li><li>For any dirt, scrub gently with a washcloth.</li><li><em>Bleeding:</em> Put direct pressure on the wound for 10 minutes to stop any bleeding. Place a clean cloth or gauze pad over the wound. Press down firmly with your fingers over the bleeding area.</li></ul>","True","CLEAN THE WOUND:
+* Wash the w","109"
+"4380","133","2000-12-10 09:19:04","2020-12-28 00:00:00","2012-06-30 05:54:11","CONTINUE DIRECT PRESSURE FOR BLEEDING:
+* Put direct pressure on the bleeding area with a sterile gauze or clean cloth.
+* Continue doing this until seen.","<strong>Continue Direct Pressure for Bleeding:</strong><ul><li>Put direct pressure on the bleeding area with a sterile gauze or clean cloth.</li><li>Continue doing this until seen.</li></ul>","True","CONTINUE DIRECT PRESSURE FOR B","116"
+"4381","133","2000-12-10 09:19:04","2021-10-28 00:00:00","2012-07-11 23:44:36","DRESSING THE WOUND: 
+* Cover the wound with a dressing.
+* Use a sterile gauze or an adhesive bandage (such as a Band-Aid).
+* Change the dressing daily or if gets dirty.","<strong>Dressing the Wound:</strong> <ul><li>Cover the wound with a dressing.</li><li>Use a sterile gauze or an adhesive bandage (such as a Band-Aid).</li><li>Change the dressing daily or if gets dirty.</li></ul>","True","DRESSING THE WOUND: 
+* Cover ","118"
+"4383","133","2000-12-10 09:19:04","2022-03-29 00:00:00","2012-07-17 01:30:30","USE HEAT ON AREA AFTER 48 HOURS:
+* If pain, swelling, or bruising last more than 48 hours (2 days), then use heat on the area.
+* Use a heat pack, heating pad, or warm wet washcloth.
+* Do this for 10 minutes three times a day.
+* This will help increase blood flow and improve healing.
+* Caution: Avoid burn. Do not sleep on a heating pad.","<strong>Use Heat on Area After 48 Hours:</strong><ul><li>If pain, swelling, or bruising last more than 48 hours (2 days), then use heat on the area.</li><li>Use a heat pack, heating pad, or warm wet washcloth.</li><li>Do this for 10 minutes three times a day.</li><li>This will help increase blood flow and improve healing.</li><li><em>Caution:</em> burn. Do not sleep on a heating pad.</li></ul>","True","USE HEAT ON AREA AFTER 48 HOUR","112"
+"4384","133","2000-12-10 09:22:09","2021-06-22 00:00:00","2012-07-13 01:32:13","FIRST AID - DIRECT PRESSURE FOR BLEEDING:
+* Put direct pressure on the entire wound with a clean cloth or gauze pad.","<strong>First Aid - Direct Pressure for Bleeding:</strong><ul><li>Put direct pressure on the entire wound with a clean cloth or gauze pad.</li></ul>","True","FIRST AID - DIRECT PRESSURE FO","1046"
+"4385","133","2000-12-10 09:49:03","2021-03-10 00:00:00","2012-07-13 01:33:46","FIRST AID - PENETRATING OBJECT:
+* If penetrating object still in place, don't remove it.
+* Reason: removal could increase internal bleeding.","<strong>First Aid - Penetrating Object:</strong><ul><li>If penetrating object still in place, don't remove it. </li><li>Reason: removal could increase internal bleeding.</li></ul>","True","FIRST AID - PENETRATING OBJECT","1042"
+"4386","133","2000-12-10 09:51:27","2022-02-16 00:00:00","2012-07-18 03:22:35","NOTHING BY MOUTH:
+* Do not eat or drink anything for now.
+* Reason: Condition may need surgery and general anesthesia.","<strong>Nothing by Mouth:</strong><ul><li>Do not eat or drink anything for now.</li><li><em>Reason:</em> Condition may need surgery and general anesthesia.</li></ul>","False","NOTHING BY MOUTH:
+* Do not ea","15"
+"4387","133","2000-12-10 09:51:29","2020-03-14 07:52:45","2012-07-13 01:07:11","FIRST AID ADVICE FOR SUSPECTED ANKLE OR FOOT FRACTURE (BROKEN BONE) OR DISLOCATION (OUT OF JOINT):
+* Do not remove the shoe.
+* Immobilize the ankle and foot by wrapping them with a soft splint (e.g., a pillow or a rolled-up blanket).
+* Use tape to keep this splint in place.","<strong>First Aid Advice for Suspected Ankle or Foot Fracture (Broken Bone) or Dislocation (Out of Joint):</strong><ul><li>Do not remove the shoe.</li><li>Immobilize the ankle and foot by wrapping them with a soft splint (e.g., a pillow or a rolled-up blanket).</li><li>Use tape to keep this splint in place.</li></ul>","True","FIRST AID ADVICE FOR SUSPECTED","16"
+"4388","133","2000-12-10 12:28:08","2020-05-21 00:00:00","2012-07-11 03:31:10","DIABETES:
+* Some patients with diabetes have 'neuropathy' (nerve damage of sensory nerves) which can often reduce your ability to sense pain in your feet.
+* Wounds in patients with diabetes heal slower. People who have diabetes are prone to developing infected foot ulcers at sites of minor injury. Be vigilant for signs of infection: redness, pus, fever, or a non-healing wound.","<strong>Diabetes:</strong><ul><li>Some patients with diabetes have &quot;neuropathy&quot; (nerve damage of sensory nerves) which can often reduce your ability to sense pain in your feet.</li><li>Wounds in patients with diabetes heal slower. People who have diabetes are prone to developing infected foot ulcers at sites of minor injury. Be vigilant for signs of infection: redness, pus, fever, or a non-healing wound.</li></ul>","True","DIABETES:
+* Some patients wit","18"
+"4675","142","2001-01-07 16:47:27","2021-07-30 00:00:00","2012-07-20 04:29:50","REASSURANCE AND EDUCATION - DIARRHEA: 
+* Diarrhea may caused by a virus ('stomach flu') or a bacteria. Diarrhea is one of the body's way of getting rid of germs.
+* Certain foods (e.g., dairy products, supplements like Ensure) can also trigger diarrhea.
+* In some people, the exact cause is never found.
+* Staying well-hydrated is the most important thing if you have diarrhea. From what you have told me, it sounds like you are not severely dehydrated at this point.
+* Here is some general care advice that should help.","<strong>Reassurance and Education - Diarrhea:</strong> <ul><li>Diarrhea may caused by a virus (&quot;stomach flu&quot;) or a bacteria. Diarrhea is one of the body's way of getting rid of germs.</li><li>Certain foods (e.g., dairy products, supplements like Ensure) can also trigger diarrhea.</li><li>In some people, the exact cause is never found.</li><li>Staying well-hydrated is the most important thing if you have diarrhea. From what you have told me, it sounds like you are not severely dehydrated at this point.</li><li><em>Here is some general care advice that should help.</em></li></ul>","True","REASSURANCE AND EDUCATION - DI","9"
+"4682","142","2001-01-07 16:47:29","2021-06-24 09:36:06","2012-07-11 00:13:22","CONTAGIOUSNESS: 
+* Wash your hands after using the bathroom.
+* Wash your hands before fixing or eating food.
+* If your work is cooking, handling, serving, or preparing food, then you should not work until Do he diarrhea has completely stopped. Check with your employer before going back to work.
+* Wash soiled towels, sheets, or clothes separately.
+* Do not share towels or sheets.
+* Do not swim for 2 weeks after diarrhea is gone.","<strong>Contagiousness:</strong> <ul><li>Wash your hands after using the bathroom.</li><li>Wash your hands before fixing or eating food.</li><li>If your work is cooking, handling, serving, or preparing food, then you should not work until Do he diarrhea has completely stopped. Check with your employer before going back to work.</li><li>Wash soiled towels, sheets, or clothes separately.</li><li>Do not share towels or sheets.</li><li>Do not swim for 2 weeks after diarrhea is gone.</li></ul>","True","CONTAGIOUSNESS: 
+* Wash your ","7"
+"4683","142","2001-01-07 16:47:29","2021-07-30 00:00:00","2012-08-17 11:47:35","CALL BACK IF: 
+* Signs of dehydration occur (e.g., no urine over 12 hours, very dry mouth, lightheaded, etc.)
+* Diarrhea lasts over 7 days
+* You become worse","<strong>Call Back If:</strong> <ul><li>Signs of dehydration occur (e.g., no urine over 12 hours, very dry mouth, lightheaded, etc.)</li><li>Diarrhea lasts over 7 days</li><li>You become worse</li></ul>","True","CALL BACK IF: 
+* Signs of deh","8"
+"4684","142","2001-01-07 16:47:29","2001-01-10 08:48:46","2012-07-07 03:57:44","CARE ADVICE given per Diarrhea (Adult) guideline.","<strong>Care Advice </strong>given per Diarrhea (Adult) guideline.","False","CARE ADVICE given per Diarrhea","1"
+"4694","142","2001-01-07 16:47:29","2021-06-22 15:00:38","2012-07-12 00:24:00","STOOL SAMPLE:
+* It could be bacterial diarrhea.
+* You may need to provide a stool culture.
+* Bring a sample of the diarrhea (e.g., in a container with a lid).","<strong>Stool Sample:</strong><ul><li>It could be bacterial diarrhea.</li><li>You may need to provide a stool culture.</li><li>Bring a sample of the diarrhea (e.g., in a container with a lid).</li></ul>","False","STOOL SAMPLE:
+* It could be b","16"
+"4695","142","2001-01-07 16:47:29","2021-09-27 00:00:00","2012-08-17 11:52:58","CALL BACK IF:
+* Signs of dehydration occur (e.g., no urine over 12 hours, very dry mouth, lightheaded, etc.)
+* Bloody stools
+* Constant or severe abdomen pain
+* You become worse","<strong>Call Back If:</strong><ul><li>Signs of dehydration occur (e.g., no urine over 12 hours, very dry mouth, lightheaded, etc.)</li><li>Bloody stools</li><li>Constant or severe abdomen pain</li><li>You become worse</li></ul>","True","CALL BACK IF:
+* Signs of dehy","17"
+"4699","142","2001-01-07 16:47:29","2021-06-22 15:02:23","2012-07-11 03:38:25","DIARRHEA DIARY:
+* Please keep a diary of the diarrhea each day. 
+* Write down how often the diarrhea occurs and how loose it is.
+* This can help make the correct diagnosis.","<strong>Diarrhea Diary:</strong><ul><li>Please keep a diary of the diarrhea each day. </li><li>Write down how often the diarrhea occurs and how loose it is.</li><li>This can help make the correct diagnosis.</li></ul>","True","DIARRHEA DIARY:
+* Please keep","18"
+"4713","142","2001-01-07 16:53:10","2021-12-11 00:00:00","2012-07-13 01:39:42","FIRST AID - LIE DOWN FOR SHOCK:
+* Lie down with feet elevated.
+* Reason: Treatment for shock.","<strong>First Aid - Lie Down for Shock:</strong><ul><li>Lie down with feet elevated.</li><li><em>Reason:</em> Treatment for shock.</li></ul>","True","FIRST AID - LIE DOWN FOR SHOCK","1045"
+"4714","142","2001-01-07 16:53:26","2021-04-13 00:00:00","2012-07-06 00:10:43","CALL EMS 911 NOW:
+* Immediate medical attention is needed. You need to hang up and call 911 (or an ambulance).
+* Triager Discretion: I'll call you back in a few minutes to be sure you were able to reach them.","<strong>Call EMS 911 Now:</strong><ul><li>Immediate medical attention is needed. You need to hang up and call 911 (or an ambulance).</li><li><em>Triager Discretion:</em> I'll call you back in a few minutes to be sure you were able to reach them.</li></ul>","False","CALL EMS 911 NOW:
+* Immediate","40"
+"4715","142","2001-01-07 16:53:28","2021-04-13 00:00:00","2012-08-27 14:23:29","GO TO ED NOW:
+* You need to be seen in the Emergency Department.
+* Go to the ED at ___________ Hospital.
+* Leave now. Drive carefully.","<strong>Go to ED Now:</strong><ul><li>You need to be seen in the Emergency Department.</li><li>Go to the ED at ___________ Hospital.</li><li>Leave now. Drive carefully.</li></ul>","False","GO TO ED NOW:
+* You need to b","41"
+"4716","142","2001-01-07 16:53:28","2021-04-13 00:00:00","2012-07-13 04:15:05","GO TO ED NOW (OR PCP TRIAGE):
+* IF NO PCP (PRIMARY CARE PROVIDER) SECOND-LEVEL TRIAGE: You need to be seen within the next hour. Go to the ED/UCC at _____________ Hospital. Leave as soon as you can.
+* IF PCP SECOND-LEVEL TRIAGE REQUIRED: You may need to be seen. Your doctor (or NP/PA) will want to talk with you to decide what's best. I'll page the provider on-call now. If you haven't heard from the provider (or me) within 30 minutes, go directly to the ED/UCC at _____________ Hospital.","<strong>Go to ED Now (or PCP Triage):</strong><ul><li><strong>If No</strong> <strong>PCP (Primary Care Provider) Second-Level Triage:</strong> You need to be seen within the next hour. Go to the ED/UCC at _____________ Hospital. Leave as soon as you can.</li><li><strong>If</strong> <strong>PCP Second-Level Triage Required:</strong> You may need to be seen. Your doctor (or NP/PA) will want to talk with you to decide what's best. I'll page the provider on-call now. If you haven't heard from the provider (or me) within 30 minutes, go directly to the ED/UCC at _____________ Hospital.</li></ul>","False","GO TO ED NOW (OR PCP TRIAGE):","42"
+"4717","142","2001-01-07 16:53:28","2021-06-21 00:00:00","2016-03-07 18:49:36","SEE HCP (OR PCP TRIAGE) WITHIN 4 HOURS:
+* IF OFFICE WILL BE OPEN: You need to be seen within the next 3 or 4 hours. Call your doctor (or NP/PA) now or as soon as the office opens.
+* IF OFFICE WILL BE CLOSED AND NO PCP (PRIMARY CARE PROVIDER) SECOND-LEVEL TRIAGE: You need to be seen within the next 3 or 4 hours. A nearby Urgent Care Center (UCC) is often a good source of care. Another choice is to go to the ED. Go sooner if you become worse.
+* IF OFFICE WILL BE CLOSED AND PCP SECOND-LEVEL TRIAGE REQUIRED: You may need to be seen. Your doctor (or NP/PA) will want to talk with you to decide what's best. I'll page the on-call provider now. If you haven't heard from the provider (or me) within 30 minutes, call again. NOTE: If on-call provider can't be reached, send to UCC or ED.
+
+NOTE TO TRIAGER:
+* Use nurse judgment to select the most appropriate source of care.
+* Consider both the urgency of the patient's symptoms AND what resources may be needed to evaluate and manage the patient.
+
+SOURCES OF CARE:
+* ED: Patients who may need surgery or hospital admission need to be sent to an ED. So do most patients with serious symptoms or complex medical problems.
+* UCC: Some UCCs can manage patients who are stable and have less serious symptoms (e.g., minor illnesses and injuries). The triager must know the UCC capabilities before sending a patient there. If unsure, call ahead.
+* OFFICE: If patient sounds stable and not seriously ill, consult PCP (or follow your office policy) to see if patient can be seen NOW in office.","<strong>See HCP (or PCP Triage) Within 4 Hours:</strong><ul><li><strong>If Office Will Be Open:</strong> You need to be seen within the next 3 or 4 hours. Call your doctor (or NP/PA) now or as soon as the office opens.</li><li><strong>If Office Will Be Closed and No PCP (Primary Care Provider) Second-Level Triage:</strong> You need to be seen within the next 3 or 4 hours. A nearby Urgent Care Center (UCC) is often a good source of care. Another choice is to go to the ED. Go sooner if you become worse.</li><li><strong>If Office Will Be Closed and PCP Second-Level Triage Required:</strong> You may need to be seen. Your doctor (or NP/PA) will want to talk with you to decide what's best. I'll page the on-call provider now. If you haven't heard from the provider (or me) within 30 minutes, call again. <strong>Note:</strong> If on-call provider can't be reached, send to UCC or ED.</li></ul><strong>Note to Triager:</strong><ul><li>Use nurse judgment to select the most appropriate source of care.</li><li>Consider both the urgency of the patient's symptoms AND what resources may be needed to evaluate and manage the patient.</li></ul><strong>Sources of Care:</strong><ul><li><strong>ED:</strong> Patients who may need surgery or hospital admission need to be sent to an ED. So do most patients with serious symptoms or complex medical problems.</li><li><strong>UCC:</strong> Some UCCs can manage patients who are stable and have less serious symptoms (e.g., minor illnesses and injuries). The triager must know the UCC capabilities before sending a patient there. If unsure, call ahead.</li><li><strong>OFFICE:</strong> If patient sounds stable and not seriously ill, consult PCP (or follow your office policy) to see if patient can be seen NOW in office.</li></ul>","False","SEE HCP (OR PCP TRIAGE) WITHIN","43"
+"4718","142","2001-01-07 16:53:28","2021-04-13 00:00:00","2016-03-07 18:51:12","SEE PCP WITHIN 24 HOURS: 
+* IF OFFICE WILL BE OPEN: You need to be examined within the next 24 hours. Call your doctor (or NP/PA) when the office opens and make an appointment.
+* IF OFFICE WILL BE CLOSED: You need to be seen within the next 24 hours. A clinic or an urgent care center is often a good source of care if your doctor's office is closed or you can't get an appointment.
+* IF PATIENT HAS NO PCP: Refer patient to a clinic or urgent care center. Also try to help caller find a PCP for future care.
+
+NOTE TO TRIAGER:
+* Use nurse judgment to select the most appropriate source of care.
+* Consider both the urgency of the patient's symptoms AND what resources may be needed to evaluate and manage the patient.","<strong>See PCP Within 24 Hours:</strong> <ul><li><strong>If Office Will Be Open:</strong> You need to be examined within the next 24 hours. Call your doctor (or NP/PA) when the office opens and make an appointment.</li><li><strong>If Office Will Be Closed:</strong> You need to be seen within the next 24 hours. A clinic or an urgent care center is often a good source of care if your doctor's office is closed or you can't get an appointment.</li><li><strong>If Patient Has No PCP:</strong> Refer patient to a clinic or urgent care center. Also try to help caller find a PCP for future care.</li></ul><strong>Note to Triager:</strong><ul><li>Use nurse judgment to select the most appropriate source of care.</li><li>Consider both the urgency of the patient's symptoms AND what resources may be needed to evaluate and manage the patient.</li></ul>","False","SEE PCP WITHIN 24 HOURS: 
+* I","44"
+"4719","142","2001-01-07 16:53:28","2021-04-13 00:00:00","2016-03-07 18:51:43","SEE PCP WITHIN 3 DAYS:
+* You need to be seen within 2 or 3 days.
+* PCP VISIT: Call your doctor (or NP/PA) during regular office hours and make an appointment. A clinic or urgent care center are good places to go for care if your doctor's office is closed or you can't get an appointment. NOTE: If office will be open tomorrow, tell caller to call then, not in 3 days.
+* IF PATIENT HAS NO PCP: A clinic or urgent care center are good places to go for care if you do not have a primary care provider. NOTE: Try to help caller find a PCP for future care (e.g., use a physician referral line). Having a PCP or 'medical home' means better long-term care.","<strong>See PCP Within 3 Days:</strong><ul><li>You need to be seen within 2 or 3 days.</li><li><strong>PCP Visit:</strong> Call your doctor (or NP/PA) during regular office hours and make an appointment. A clinic or urgent care center are good places to go for care if your doctor's office is closed or you can't get an appointment. <strong>Note:</strong> If office will be open tomorrow, tell caller to call then, not in 3 days.</li><li><strong>If Patient Has No PCP:</strong> A clinic or urgent care center are good places to go for care if you do not have a primary care provider. <strong>Note:</strong> Try to help caller find a PCP for future care (e.g., use a physician referral line). Having a PCP or &quot;medical home&quot; means better long-term care.</li></ul>","False","SEE PCP WITHIN 3 DAYS:
+* You ","45"
+"4720","142","2001-01-07 16:53:28","2021-04-13 00:00:00","2012-07-21 03:39:14","SEE PCP WITHIN 2 WEEKS:
+* You need to be seen for this ongoing problem within the next 2 weeks. 
+* PCP VISIT: Call your doctor (or NP/PA) during regular office hours and make an appointment.
+* IF PATIENT HAS NO PCP: A primary care clinic is where you need to be seen for chronic health problems. NOTE: Try to help caller find a PCP (e.g., use a physician referral line). Having a PCP or 'medical home' means better long-term care.","<strong>See PCP Within 2 Weeks:</strong><ul><li>You need to be seen for this ongoing problem within the next 2 weeks. </li><li><strong>PCP Visit:</strong> Call your doctor (or NP/PA) during regular office hours and make an appointment.</li><li><strong>If Patient Has No PCP:</strong> A primary care clinic is where you need to be seen for chronic health problems. <strong>Note:</strong> Try to help caller find a PCP (e.g., use a physician referral line). Having a PCP or &quot;medical home&quot; means better long-term care.</li></ul>","False","SEE PCP WITHIN 2 WEEKS:
+* You","46"
+"4721","142","2001-01-07 16:53:28","2021-04-13 00:00:00","2012-07-14 01:48:45","HOME CARE - INFORMATION OR ADVICE ONLY CALL.","<strong>Home Care - Information or Advice Only Call.</strong>","False","HOME CARE - INFORMATION OR ADV","47"
+"4722","142","2001-01-07 16:53:28","2021-04-13 00:00:00","2012-07-13 23:41:36","HOME CARE: 
+* You should be able to treat this at home.","<strong>Home Care:</strong> <ul><li>You should be able to treat this at home.</li></ul>","False","HOME CARE: 
+* You should be a","48"
+"4723","142","2001-01-07 16:53:28","2021-04-13 00:00:00","2012-07-06 00:59:47","CALL PCP NOW: 
+* You need to discuss this with your doctor (or NP/PA).
+* I'll page the on-call provider now. If you haven't heard from the provider (or me) within 30 minutes, call again.","<strong>Call PCP Now:</strong> <ul><li>You need to discuss this with your doctor (or NP/PA).</li><li>I'll page the on-call provider now. If you haven't heard from the provider (or me) within 30 minutes, call again.</li></ul>","False","CALL PCP NOW: 
+* You need to ","49"
+"4724","142","2001-01-07 16:53:28","2021-04-13 00:00:00","2012-07-06 02:20:21","CALL PCP WITHIN 24 HOURS: 
+* You need to discuss this with your doctor (or NP/PA) within the next 24 hours.
+* IF OFFICE WILL BE OPEN: Call the office when it opens tomorrow morning.
+* IF OFFICE WILL BE CLOSED: I'll page the on-call provider now. EXCEPTION: from 9 pm to 9 am. Since this isn't urgent, we'll hold the page until morning.","<strong>Call PCP Within 24 Hours:</strong> <ul><li>You need to discuss this with your doctor (or NP/PA) within the next 24 hours.</li><li><strong>If Office Will Be Open:</strong> Call the office when it opens tomorrow morning.</li><li><strong>If Office Will Be Closed:</strong> I'll page the on-call provider now. <strong>Exception:</strong> from 9 pm to 9 am. Since this isn't urgent, we'll hold the page until morning.</li></ul>","False","CALL PCP WITHIN 24 HOURS: 
+* ","50"
+"4725","142","2001-01-07 16:53:28","2021-04-13 00:00:00","2012-07-06 01:24:40","CALL PCP WHEN OFFICE IS OPEN: 
+* You need to discuss this with your doctor (or NP/PA) within the next few days.
+* Call the office when it is open.","<strong>Call PCP When Office Is Open:</strong> <ul><li>You need to discuss this with your doctor (or NP/PA) within the next few days. </li><li>Call the office when it is open.</li></ul>","False","CALL PCP WHEN OFFICE IS OPEN: ","51"
+"4726","142","2001-01-07 16:53:28","2021-06-23 00:00:00","2012-07-13 05:29:41","GO TO L&D NOW: 
+* You need to be seen.
+* Go to the Labor and Delivery Unit or the Emergency Department at __________ Hospital.
+* Leave now. Drive carefully.","<strong>Go to L&amp;D Now:</strong> <ul><li>You need to be seen. </li><li>Go to the Labor and Delivery Unit or the Emergency Department at __________ Hospital. </li><li>Leave now. Drive carefully.</li></ul>","False","GO TO L&D NOW: 
+* You need to","52"
+"4727","142","2001-01-07 18:41:01","2020-10-03 00:00:00","2012-07-11 23:51:56","ANOTHER ADULT SHOULD DRIVE:
+* It is better and safer if another adult drives instead of you.","<strong>Another Adult Should Drive:</strong><ul><li>It is better and safer if another adult drives instead of you.</li></ul>","True","ANOTHER ADULT SHOULD DRIVE:
+*","80"
+"4728","142","2001-01-07 18:41:03","2021-07-17 00:00:00","2012-07-03 02:38:35","BRING MEDICINES:
+* Bring a list of your current medicines when you go to the Emergency Department (ER).
+* Bring the pill bottles too. This will help the doctor (or NP/PA) to make certain you are taking the right medicines and the right dose.","<strong>Bring Medicines:</strong><ul><li>Bring a list of your current medicines when you go to the Emergency Department (ER).</li><li>Bring the pill bottles too. This will help the doctor (or NP/PA) to make certain you are taking the right medicines and the right dose.</li></ul>","True","BRING MEDICINES:
+* Bring a li","81"
+"4729","142","2001-01-07 18:53:24","2021-06-22 15:04:03","2012-08-27 12:26:11","CLEAR FLUIDS: 
+* Drink more fluids.
+* Sip water or a half-strength sports drink (e.g., Gatorade, Powerade; mix half and half with water).
+* Other options: An oral rehydration solution (e.g., Pedialyte, Rehydralyte).","<strong>Clear Fluids:</strong> <ul><li>Drink more fluids.</li><li>Sip water or a half-strength sports drink (e.g., Gatorade, Powerade; mix half and half with water).</li><li><em>Other options:</em> An oral rehydration solution (e.g., Pedialyte, Rehydralyte). </li></ul>","True","CLEAR FLUIDS: 
+* Drink more f","20"
+"4730","142","2001-01-07 18:54:15","2020-08-23 00:00:00","2020-08-23 00:00:00","FEVER MEDICINES:
+* For fevers above 101° F (38.3° C) take either acetaminophen or ibuprofen.
+* They are over-the-counter (OTC) drugs that help treat both fever and pain. You can buy them at the drugstore.
+* The goal of fever therapy is to bring the fever down to a comfortable level. Remember that fever medicine usually lowers fever 2 degrees F (1 - 1 1/2 degrees C).
+* ACETAMINOPHEN REGULAR STRENGTH TYLENOL: Take 650 mg (two 325 mg pills) by mouth every 4-6 hours as needed. Each Regular Strength Tylenol pill has 325 mg of acetaminophen. The most you should take each day is 3,250 mg (10 pills a day).
+* ACETAMINOPHEN - EXTRA STRENGTH TYLENOL: Take 1,000 mg (two 500 mg pills) every 8 hours as needed. Each Extra Strength Tylenol pill has 500 mg of acetaminophen. The most you should take each day is 3,000 mg (6 pills a day).
+* IBUPROFEN (E.G., MOTRIN, ADVIL): Take 400 mg (two 200 mg pills) by mouth every 6 hours. The most you should take each day is 1,200 mg (six 200 mg pills), unless your doctor has told you to take more.","<strong>Fever Medicines:</strong><ul><li>For fevers above 101° F (38.3° C) take either acetaminophen or ibuprofen.</li><li>They are over-the-counter (OTC) drugs that help treat both fever and pain. You can buy them at the drugstore.</li><li>The goal of fever therapy is to bring the fever down to a comfortable level. Remember that fever medicine usually lowers fever 2 degrees F (1 - 1 1/2 degrees C).</li><li><strong>Acetaminophen Regular Strength Tylenol:</strong> Take 650 mg (two 325 mg pills) by mouth every 4-6 hours as needed. Each Regular Strength Tylenol pill has 325 mg of acetaminophen. The most you should take each day is 3,250 mg (10 pills a day).</li><li><strong>Acetaminophen - Extra Strength Tylenol:</strong> Take 1,000 mg (two 500 mg pills) every 8 hours as needed. Each Extra Strength Tylenol pill has 500 mg of acetaminophen. The most you should take each day is 3,000 mg (6 pills a day).</li><li><strong>Ibuprofen (e.g., Motrin, Advil):</strong> Take 400 mg (two 200 mg pills) by mouth every 6 hours. The most you should take each day is 1,200 mg (six 200 mg pills), unless your doctor has told you to take more.</li></ul>","True","FEVER MEDICINES:
+* For fevers","1002"
+"4732","142","2001-01-07 18:55:24","2021-07-30 00:00:00","2012-07-05 05:29:53","CALL BACK IF:
+* You become worse","<strong>Call Back If:</strong><ul><li>You become worse</li></ul>","True","CALL BACK IF:
+* You become wo","89"
+"4734","142","2001-01-09 10:09:50","2021-06-22 14:36:07","2012-07-13 01:49:50","FLUID THERAPY DURING MILD TO MODERATE DIARRHEA:
+* Drink more fluids, at least 8 to 10 cups daily. One cup equals 8 oz (240 ml).
+* WATER: For mild to moderate diarrhea, water is often the best liquid to drink. You should also eat some salty foods (e.g., potato chips, pretzels, saltine crackers). This is important to make sure you are getting enough salt, sugars, and fluids to meet your body's needs.
+* SPORTS DRINKS: You can also drink half-strength sports drinks (e.g., Gatorade, Powerade) to help treat and prevent dehydration. Mix the sports drink half and half with water.
+* Avoid caffeinated beverages. Reason: Caffeine is mildly dehydrating.
+* Avoid alcohol beverages (e.g., beer, wine, hard liquor).
+* Avoid carbonated soft drinks (soda) as these can make your diarrhea worse.","<strong>Fluid Therapy During Mild to Moderate Diarrhea:</strong><ul><li>Drink more fluids, at least 8 to 10 cups daily. One cup equals 8 oz (240 ml).</li><li><strong>Water:</strong> For mild to moderate diarrhea, water is often the best liquid to drink. You should also eat some salty foods (e.g., potato chips, pretzels, saltine crackers). This is important to make sure you are getting enough salt, sugars, and fluids to meet your body's needs.</li><li><strong>Sports drinks:</strong> You can also drink half-strength sports drinks (e.g., Gatorade, Powerade) to help treat and prevent dehydration. Mix the sports drink half and half with water.</li><li><strong>Avoid</strong> caffeinated beverages. <em>Reason:</em> Caffeine is mildly dehydrating.</li><li><strong>Avoid</strong> alcohol beverages (e.g., beer, wine, hard liquor).</li><li><strong>Avoid</strong> carbonated soft drinks (soda) as these can make your diarrhea worse.</li></ul>","True","FLUID THERAPY DURING MILD TO M","3"
+"4735","142","2001-01-09 10:26:38","2021-06-22 14:39:21","2012-07-18 04:47:16","FOOD AND NUTRITION DURING MILD TO MODERATE DIARRHEA:
+* Maintaining some food intake during episodes of diarrhea is important.
+* Begin with boiled starches / cereals (e.g., potatoes, rice, noodles, wheat, oats) with a small amount of salt to taste.
+* You can also eat bananas, yogurt, crackers, soup.
+* Eat smaller meals and snacks more often during the day rather than 3 larger meals.
+* As the diarrhea starts to get better, you can slowly return to a normal diet.
+* AVOID milk and dairy products if these make your diarrhea worse.
+* AVOID greasy, fatty or spicy foods.","<strong>Food and Nutrition During Mild to Moderate Diarrhea:</strong><ul><li>Maintaining some food intake during episodes of diarrhea is important.</li><li>Begin with boiled starches / cereals (e.g., potatoes, rice, noodles, wheat, oats) with a small amount of salt to taste.</li><li>You can also eat bananas, yogurt, crackers, soup.</li><li>Eat smaller meals and snacks more often during the day rather than 3 larger meals.</li><li>As the diarrhea starts to get better, you can slowly return to a normal diet.</li><li><strong>Avoid</strong> milk and dairy products if these make your diarrhea worse.</li><li><strong>Avoid</strong> greasy, fatty or spicy foods.</li></ul>","True","FOOD AND NUTRITION DURING MILD","4"
+"4736","142","2001-01-09 10:41:33","2021-06-21 09:47:14","2012-07-12 03:19:30","EXPECTED COURSE:
+* Viral diarrhea lasts 4 to 7 days.
+* It is usually worse on days 1 and 2.","<strong>Expected Course:</strong><ul><li>Viral diarrhea lasts 4 to 7 days.</li><li>It is usually worse on days 1 and 2.</li></ul>","True","EXPECTED COURSE:
+* Viral diar","6"
